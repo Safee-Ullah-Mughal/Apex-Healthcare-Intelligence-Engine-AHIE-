@@ -1,0 +1,3799 @@
+{
+  "report": {
+    "generated_at": "2026-07-04T08:19:01.885620Z",
+    "seed_url": "https://maxhealth.com.pk/",
+    "pages_scraped": 10,
+    "aggregate": {
+      "unique_emails": [
+        "info@maxhealth.com.pk",
+        "rhsmarketing@riphah.edu.pk"
+      ],
+      "unique_phones": [
+        "(051) 4486062",
+        "+92-51-8094760",
+        "+92-51-8094767",
+        "03171773347",
+        "3085554744"
+      ],
+      "social_profiles": {
+        "facebook": [
+          "https://www.facebook.com/MaxHealth.Islamabad"
+        ],
+        "youtube": [
+          "https://www.youtube.com/@maxhealthhospital3924"
+        ],
+        "instagram": [
+          "https://www.instagram.com/max_health_isb?fbclid=IwZXh0bgNhZW0CMTAAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHp6decSPR0d3bDYMVwKMle58cs4EJzgSKsv_-rSoWrTXAcCzjf1xyjbLhrc0_aem_r2CqKDBXi7xXzln9eaDWWA"
+        ]
+      }
+    },
+    "intelligence": {
+      "organization_name": "Max Health Hospital",
+      "organization_type": "Hospital",
+      "classification_scores": {
+        "Hospital": 85,
+        "Diagnostic Laboratory": 10,
+        "Medical Equipment Distributor": 0,
+        "Pharmaceutical Company": 20,
+        "Medical College": 0,
+        "Clinic": 41,
+        "NGO": 10
+      },
+      "classification_confidence": {
+        "confidence_pct": 99,
+        "confidence_label": "Very High",
+        "reason": "Classified as Hospital based on keyword signal strength of 85 (vs. 41 for next best). Supporting departments: Emergency, ICU, Operation Theater, Pathology, Radiology."
+      },
+      "departments": [
+        "Cardiology",
+        "Dental",
+        "Dermatology",
+        "ENT",
+        "Emergency",
+        "Gastroenterology",
+        "Gynecology",
+        "ICU",
+        "Nephrology",
+        "Neurology",
+        "Oncology",
+        "Operation Theater",
+        "Ophthalmology",
+        "Orthopedics",
+        "Pathology",
+        "Pediatrics",
+        "Pharmacy",
+        "Physiotherapy",
+        "Psychiatry",
+        "Radiology",
+        "Urology"
+      ],
+      "recommended_products": [
+        "Anesthesia Machine",
+        "Arthroscopy Tower",
+        "Audiometer",
+        "Auto Refractometer",
+        "Autoclave (Dental)",
+        "Biofeedback System",
+        "Bone Cement System",
+        "Brachytherapy System",
+        "C-Arm Fluoroscopy",
+        "CBC Analyzer (Hematology)",
+        "CT Scanner",
+        "Capsule Endoscopy System",
+        "Cardiac Catheterization Equipment",
+        "Centrifuge",
+        "Chemistry Analyzer",
+        "Chemotherapy Infusion Pump",
+        "Colposcope",
+        "Crash Cart",
+        "Cryotherapy Unit",
+        "Cystoscope",
+        "Defibrillator",
+        "Delivery Table",
+        "Dental CBCT Scanner",
+        "Dental Chair",
+        "Dental Handpiece",
+        "Dermatoscope",
+        "Dialysis Water Purification System",
+        "Digital X-Ray System",
+        "ECG Machine",
+        "ECT Machine",
+        "EEG Machine",
+        "EMG Machine",
+        "ENT Examination Unit",
+        "Echocardiography System",
+        "Electrosurgical Unit",
+        "Endoscopy Processor",
+        "Exercise Equipment",
+        "Feeding Pump",
+        "Fetal Monitor (CTG)",
+        "Fluoroscopy Unit",
+        "Fundus Camera",
+        "Hemodialysis Machine",
+        "Holmium Laser",
+        "Holter Monitor",
+        "IVD Consumables",
+        "Infant Warmer",
+        "Infusion Pump",
+        "Intraoral X-Ray",
+        "Label Printer",
+        "Laminar Flow Cabinet",
+        "Laparoscopic Tower",
+        "Laser Therapy Unit",
+        "Laser Treatment System",
+        "Linear Accelerator (LINAC)",
+        "Lithotripsy System (ESWL)",
+        "MRI Scanner",
+        "Mechanical Ventilator",
+        "Microscope",
+        "Neonatal Incubator",
+        "Nerve Conduction Study System",
+        "OCT Scanner",
+        "Oncology Information System",
+        "Operating Table",
+        "Orthopedic Power Tools",
+        "Otoscope",
+        "PACS System",
+        "Patient Management Software",
+        "Patient Monitor",
+        "Pediatric Ventilator",
+        "Peritoneal Dialysis Equipment",
+        "Phacoemulsification System",
+        "Pharmacy Management Software",
+        "Phototherapy Unit",
+        "Phototherapy Unit (PUVA/UVB)",
+        "Pill Counter",
+        "Portable Ventilator",
+        "Pulse Oximeter",
+        "Pulse Oximeter (Pediatric)",
+        "Refrigerator (Vaccine/Drug)",
+        "Rigid/Flexible Endoscope",
+        "Shortwave Diathermy",
+        "Slide Staining System",
+        "Slit Lamp",
+        "Spinal Implants",
+        "Stress Test System",
+        "Suction Machine",
+        "Surgical Instruments Set",
+        "Surgical Lights",
+        "Syringe Pump",
+        "TENS Machine",
+        "Teeth Whitening System",
+        "Tonometer",
+        "Traction Unit",
+        "Transcranial Doppler",
+        "Tympanometer",
+        "Ultrasound Machine",
+        "Ultrasound Therapy Unit",
+        "Urodynamics System",
+        "Video Colonoscope",
+        "Video Endoscope"
+      ],
+      "opportunity_score": 53,
+      "score_breakdown": {
+        "organization_type": 30,
+        "departments": 40,
+        "department_detail": {
+          "Cardiology": 10,
+          "Dental": 4,
+          "Dermatology": 4,
+          "ENT": 5,
+          "Emergency": 8,
+          "Gastroenterology": 8,
+          "Gynecology": 7,
+          "ICU": 20,
+          "Nephrology": 10,
+          "Neurology": 8,
+          "Oncology": 10,
+          "Operation Theater": 18,
+          "Ophthalmology": 5,
+          "Orthopedics": 7,
+          "Pathology": 12,
+          "Pediatrics": 6,
+          "Pharmacy": 5,
+          "Physiotherapy": 5,
+          "Psychiatry": 4,
+          "Radiology": 12,
+          "Urology": 5
+        },
+        "has_contact_email": 10,
+        "has_procurement_page": 0
+      },
+      "lead_qualification": {
+        "score": 70,
+        "grade": "B",
+        "recommended_action": "Follow up by phone/email within 30 days",
+        "breakdown": {
+          "private_hospital": 0,
+          "large_hospital": 20,
+          "has_pathology": 15,
+          "has_icu": 10,
+          "has_cath_lab": 10,
+          "has_radiology": 10,
+          "has_contact_email": 5,
+          "has_procurement_page": 0,
+          "has_decision_maker": 0
+        },
+        "decision_makers": [],
+        "is_private_hospital": false,
+        "is_large_hospital": true
+      },
+      "stakeholders": [],
+      "department_heads": [
+        {
+          "department": "Cardiology",
+          "person": "At Max",
+          "product_hint": "ECG / Echocardiography System"
+        },
+        {
+          "department": "Emergency",
+          "person": "Max Health Hospital",
+          "product_hint": "Defibrillator / Crash Cart"
+        },
+        {
+          "department": "Gastroenterology",
+          "person": "Dental Department Audiologist",
+          "product_hint": "Video Endoscope"
+        },
+        {
+          "department": "Gynecology",
+          "person": "Urology Unit",
+          "product_hint": "Fetal Monitor / Ultrasound"
+        },
+        {
+          "department": "ICU",
+          "person": "Book Appoinment Today",
+          "product_hint": "Patient Monitor / Ventilator"
+        },
+        {
+          "department": "Nephrology",
+          "person": "Select Department Nephrology",
+          "product_hint": "Hemodialysis Machine"
+        },
+        {
+          "department": "Neurology",
+          "person": "Select Department Nephrology",
+          "product_hint": "EEG Machine"
+        },
+        {
+          "department": "Operation Theater",
+          "person": "Book Appoinment Today",
+          "product_hint": "Surgical Lights / Anesthesia Machine"
+        },
+        {
+          "department": "Pathology",
+          "person": "Burn Center Dialysis",
+          "product_hint": "IVD / CBC Analyzer"
+        },
+        {
+          "department": "Pediatrics",
+          "person": "Ophthalmology Department Dental",
+          "product_hint": "Neonatal Incubator / Infant Warmer"
+        },
+        {
+          "department": "Pharmacy",
+          "person": "Book Appoinment Today",
+          "product_hint": "Laminar Flow Cabinet"
+        }
+      ],
+      "opportunity_matrix": [
+        {
+          "department": "ICU",
+          "opportunity": "ECG Machine",
+          "priority": "High"
+        },
+        {
+          "department": "ICU",
+          "opportunity": "Feeding Pump",
+          "priority": "High"
+        },
+        {
+          "department": "ICU",
+          "opportunity": "Infusion Pump",
+          "priority": "High"
+        },
+        {
+          "department": "ICU",
+          "opportunity": "Mechanical Ventilator",
+          "priority": "High"
+        },
+        {
+          "department": "ICU",
+          "opportunity": "Patient Monitor",
+          "priority": "High"
+        },
+        {
+          "department": "ICU",
+          "opportunity": "Suction Machine",
+          "priority": "High"
+        },
+        {
+          "department": "ICU",
+          "opportunity": "Syringe Pump",
+          "priority": "High"
+        },
+        {
+          "department": "Operation Theater",
+          "opportunity": "Anesthesia Machine",
+          "priority": "High"
+        },
+        {
+          "department": "Operation Theater",
+          "opportunity": "Electrosurgical Unit",
+          "priority": "High"
+        },
+        {
+          "department": "Operation Theater",
+          "opportunity": "Laparoscopic Tower",
+          "priority": "High"
+        },
+        {
+          "department": "Operation Theater",
+          "opportunity": "Operating Table",
+          "priority": "High"
+        },
+        {
+          "department": "Operation Theater",
+          "opportunity": "Surgical Instruments Set",
+          "priority": "High"
+        },
+        {
+          "department": "Operation Theater",
+          "opportunity": "Surgical Lights",
+          "priority": "High"
+        },
+        {
+          "department": "Pathology",
+          "opportunity": "CBC Analyzer (Hematology)",
+          "priority": "High"
+        },
+        {
+          "department": "Pathology",
+          "opportunity": "Centrifuge",
+          "priority": "High"
+        },
+        {
+          "department": "Pathology",
+          "opportunity": "Chemistry Analyzer",
+          "priority": "High"
+        },
+        {
+          "department": "Pathology",
+          "opportunity": "IVD Consumables",
+          "priority": "High"
+        },
+        {
+          "department": "Pathology",
+          "opportunity": "Microscope",
+          "priority": "High"
+        },
+        {
+          "department": "Pathology",
+          "opportunity": "Slide Staining System",
+          "priority": "High"
+        },
+        {
+          "department": "Cardiology",
+          "opportunity": "Cardiac Catheterization Equipment",
+          "priority": "Medium"
+        },
+        {
+          "department": "Cardiology",
+          "opportunity": "Defibrillator",
+          "priority": "Medium"
+        },
+        {
+          "department": "Cardiology",
+          "opportunity": "ECG Machine",
+          "priority": "Medium"
+        },
+        {
+          "department": "Cardiology",
+          "opportunity": "Echocardiography System",
+          "priority": "Medium"
+        },
+        {
+          "department": "Cardiology",
+          "opportunity": "Holter Monitor",
+          "priority": "Medium"
+        },
+        {
+          "department": "Cardiology",
+          "opportunity": "Stress Test System",
+          "priority": "Medium"
+        },
+        {
+          "department": "Emergency",
+          "opportunity": "Crash Cart",
+          "priority": "Medium"
+        },
+        {
+          "department": "Emergency",
+          "opportunity": "Defibrillator",
+          "priority": "Medium"
+        },
+        {
+          "department": "Emergency",
+          "opportunity": "Infusion Pump",
+          "priority": "Medium"
+        },
+        {
+          "department": "Emergency",
+          "opportunity": "Patient Monitor",
+          "priority": "Medium"
+        },
+        {
+          "department": "Emergency",
+          "opportunity": "Portable Ventilator",
+          "priority": "Medium"
+        },
+        {
+          "department": "Emergency",
+          "opportunity": "Pulse Oximeter",
+          "priority": "Medium"
+        },
+        {
+          "department": "Nephrology",
+          "opportunity": "Dialysis Water Purification System",
+          "priority": "Medium"
+        },
+        {
+          "department": "Nephrology",
+          "opportunity": "Hemodialysis Machine",
+          "priority": "Medium"
+        },
+        {
+          "department": "Nephrology",
+          "opportunity": "Patient Monitor",
+          "priority": "Medium"
+        },
+        {
+          "department": "Nephrology",
+          "opportunity": "Peritoneal Dialysis Equipment",
+          "priority": "Medium"
+        },
+        {
+          "department": "Oncology",
+          "opportunity": "Brachytherapy System",
+          "priority": "Medium"
+        },
+        {
+          "department": "Oncology",
+          "opportunity": "Chemotherapy Infusion Pump",
+          "priority": "Medium"
+        },
+        {
+          "department": "Oncology",
+          "opportunity": "Linear Accelerator (LINAC)",
+          "priority": "Medium"
+        },
+        {
+          "department": "Oncology",
+          "opportunity": "Oncology Information System",
+          "priority": "Medium"
+        },
+        {
+          "department": "Oncology",
+          "opportunity": "Patient Monitor",
+          "priority": "Medium"
+        },
+        {
+          "department": "Radiology",
+          "opportunity": "CT Scanner",
+          "priority": "Medium"
+        },
+        {
+          "department": "Radiology",
+          "opportunity": "Digital X-Ray System",
+          "priority": "Medium"
+        },
+        {
+          "department": "Radiology",
+          "opportunity": "Fluoroscopy Unit",
+          "priority": "Medium"
+        },
+        {
+          "department": "Radiology",
+          "opportunity": "MRI Scanner",
+          "priority": "Medium"
+        },
+        {
+          "department": "Radiology",
+          "opportunity": "PACS System",
+          "priority": "Medium"
+        },
+        {
+          "department": "Radiology",
+          "opportunity": "Ultrasound Machine",
+          "priority": "Medium"
+        },
+        {
+          "department": "Dental",
+          "opportunity": "Autoclave (Dental)",
+          "priority": "Low"
+        },
+        {
+          "department": "Dental",
+          "opportunity": "Dental CBCT Scanner",
+          "priority": "Low"
+        },
+        {
+          "department": "Dental",
+          "opportunity": "Dental Chair",
+          "priority": "Low"
+        },
+        {
+          "department": "Dental",
+          "opportunity": "Dental Handpiece",
+          "priority": "Low"
+        },
+        {
+          "department": "Dental",
+          "opportunity": "Intraoral X-Ray",
+          "priority": "Low"
+        },
+        {
+          "department": "Dental",
+          "opportunity": "Teeth Whitening System",
+          "priority": "Low"
+        },
+        {
+          "department": "Dermatology",
+          "opportunity": "Cryotherapy Unit",
+          "priority": "Low"
+        },
+        {
+          "department": "Dermatology",
+          "opportunity": "Dermatoscope",
+          "priority": "Low"
+        },
+        {
+          "department": "Dermatology",
+          "opportunity": "Laser Treatment System",
+          "priority": "Low"
+        },
+        {
+          "department": "Dermatology",
+          "opportunity": "Phototherapy Unit (PUVA/UVB)",
+          "priority": "Low"
+        },
+        {
+          "department": "ENT",
+          "opportunity": "Audiometer",
+          "priority": "Low"
+        },
+        {
+          "department": "ENT",
+          "opportunity": "ENT Examination Unit",
+          "priority": "Low"
+        },
+        {
+          "department": "ENT",
+          "opportunity": "Otoscope",
+          "priority": "Low"
+        },
+        {
+          "department": "ENT",
+          "opportunity": "Rigid/Flexible Endoscope",
+          "priority": "Low"
+        },
+        {
+          "department": "ENT",
+          "opportunity": "Tympanometer",
+          "priority": "Low"
+        },
+        {
+          "department": "Gastroenterology",
+          "opportunity": "Capsule Endoscopy System",
+          "priority": "Low"
+        },
+        {
+          "department": "Gastroenterology",
+          "opportunity": "Electrosurgical Unit",
+          "priority": "Low"
+        },
+        {
+          "department": "Gastroenterology",
+          "opportunity": "Endoscopy Processor",
+          "priority": "Low"
+        },
+        {
+          "department": "Gastroenterology",
+          "opportunity": "Video Colonoscope",
+          "priority": "Low"
+        },
+        {
+          "department": "Gastroenterology",
+          "opportunity": "Video Endoscope",
+          "priority": "Low"
+        },
+        {
+          "department": "Gynecology",
+          "opportunity": "Colposcope",
+          "priority": "Low"
+        },
+        {
+          "department": "Gynecology",
+          "opportunity": "Delivery Table",
+          "priority": "Low"
+        },
+        {
+          "department": "Gynecology",
+          "opportunity": "Fetal Monitor (CTG)",
+          "priority": "Low"
+        },
+        {
+          "department": "Gynecology",
+          "opportunity": "Infant Warmer",
+          "priority": "Low"
+        },
+        {
+          "department": "Gynecology",
+          "opportunity": "Neonatal Incubator",
+          "priority": "Low"
+        },
+        {
+          "department": "Gynecology",
+          "opportunity": "Ultrasound Machine",
+          "priority": "Low"
+        },
+        {
+          "department": "Neurology",
+          "opportunity": "EEG Machine",
+          "priority": "Low"
+        },
+        {
+          "department": "Neurology",
+          "opportunity": "EMG Machine",
+          "priority": "Low"
+        },
+        {
+          "department": "Neurology",
+          "opportunity": "Nerve Conduction Study System",
+          "priority": "Low"
+        },
+        {
+          "department": "Neurology",
+          "opportunity": "Patient Monitor",
+          "priority": "Low"
+        },
+        {
+          "department": "Neurology",
+          "opportunity": "Transcranial Doppler",
+          "priority": "Low"
+        },
+        {
+          "department": "Ophthalmology",
+          "opportunity": "Auto Refractometer",
+          "priority": "Low"
+        },
+        {
+          "department": "Ophthalmology",
+          "opportunity": "Fundus Camera",
+          "priority": "Low"
+        },
+        {
+          "department": "Ophthalmology",
+          "opportunity": "OCT Scanner",
+          "priority": "Low"
+        },
+        {
+          "department": "Ophthalmology",
+          "opportunity": "Phacoemulsification System",
+          "priority": "Low"
+        },
+        {
+          "department": "Ophthalmology",
+          "opportunity": "Slit Lamp",
+          "priority": "Low"
+        },
+        {
+          "department": "Ophthalmology",
+          "opportunity": "Tonometer",
+          "priority": "Low"
+        },
+        {
+          "department": "Orthopedics",
+          "opportunity": "Arthroscopy Tower",
+          "priority": "Low"
+        },
+        {
+          "department": "Orthopedics",
+          "opportunity": "Bone Cement System",
+          "priority": "Low"
+        },
+        {
+          "department": "Orthopedics",
+          "opportunity": "C-Arm Fluoroscopy",
+          "priority": "Low"
+        },
+        {
+          "department": "Orthopedics",
+          "opportunity": "Orthopedic Power Tools",
+          "priority": "Low"
+        },
+        {
+          "department": "Orthopedics",
+          "opportunity": "Spinal Implants",
+          "priority": "Low"
+        },
+        {
+          "department": "Pediatrics",
+          "opportunity": "Infant Warmer",
+          "priority": "Low"
+        },
+        {
+          "department": "Pediatrics",
+          "opportunity": "Neonatal Incubator",
+          "priority": "Low"
+        },
+        {
+          "department": "Pediatrics",
+          "opportunity": "Pediatric Ventilator",
+          "priority": "Low"
+        },
+        {
+          "department": "Pediatrics",
+          "opportunity": "Phototherapy Unit",
+          "priority": "Low"
+        },
+        {
+          "department": "Pediatrics",
+          "opportunity": "Pulse Oximeter (Pediatric)",
+          "priority": "Low"
+        },
+        {
+          "department": "Pharmacy",
+          "opportunity": "Label Printer",
+          "priority": "Low"
+        },
+        {
+          "department": "Pharmacy",
+          "opportunity": "Laminar Flow Cabinet",
+          "priority": "Low"
+        },
+        {
+          "department": "Pharmacy",
+          "opportunity": "Pharmacy Management Software",
+          "priority": "Low"
+        },
+        {
+          "department": "Pharmacy",
+          "opportunity": "Pill Counter",
+          "priority": "Low"
+        },
+        {
+          "department": "Pharmacy",
+          "opportunity": "Refrigerator (Vaccine/Drug)",
+          "priority": "Low"
+        },
+        {
+          "department": "Physiotherapy",
+          "opportunity": "Exercise Equipment",
+          "priority": "Low"
+        },
+        {
+          "department": "Physiotherapy",
+          "opportunity": "Laser Therapy Unit",
+          "priority": "Low"
+        },
+        {
+          "department": "Physiotherapy",
+          "opportunity": "Shortwave Diathermy",
+          "priority": "Low"
+        },
+        {
+          "department": "Physiotherapy",
+          "opportunity": "TENS Machine",
+          "priority": "Low"
+        },
+        {
+          "department": "Physiotherapy",
+          "opportunity": "Traction Unit",
+          "priority": "Low"
+        },
+        {
+          "department": "Physiotherapy",
+          "opportunity": "Ultrasound Therapy Unit",
+          "priority": "Low"
+        },
+        {
+          "department": "Psychiatry",
+          "opportunity": "Biofeedback System",
+          "priority": "Low"
+        },
+        {
+          "department": "Psychiatry",
+          "opportunity": "ECT Machine",
+          "priority": "Low"
+        },
+        {
+          "department": "Psychiatry",
+          "opportunity": "Patient Management Software",
+          "priority": "Low"
+        },
+        {
+          "department": "Urology",
+          "opportunity": "Cystoscope",
+          "priority": "Low"
+        },
+        {
+          "department": "Urology",
+          "opportunity": "Holmium Laser",
+          "priority": "Low"
+        },
+        {
+          "department": "Urology",
+          "opportunity": "Lithotripsy System (ESWL)",
+          "priority": "Low"
+        },
+        {
+          "department": "Urology",
+          "opportunity": "Ultrasound Machine",
+          "priority": "Low"
+        },
+        {
+          "department": "Urology",
+          "opportunity": "Urodynamics System",
+          "priority": "Low"
+        }
+      ],
+      "contact_recommendations": [
+        {
+          "contact": "info@maxhealth.com.pk",
+          "type": "email",
+          "reason": "General Inquiry",
+          "confidence": "Medium"
+        },
+        {
+          "contact": "(051) 4486062",
+          "type": "phone",
+          "reason": "Direct Call — Verify Department First",
+          "confidence": "Medium"
+        },
+        {
+          "contact": "+92-51-8094760",
+          "type": "phone",
+          "reason": "Direct Call — Verify Department First",
+          "confidence": "Medium"
+        },
+        {
+          "contact": "+92-51-8094767",
+          "type": "phone",
+          "reason": "Direct Call — Verify Department First",
+          "confidence": "Medium"
+        },
+        {
+          "contact": "03171773347",
+          "type": "phone",
+          "reason": "Direct Call — Verify Department First",
+          "confidence": "Medium"
+        },
+        {
+          "contact": "3085554744",
+          "type": "phone",
+          "reason": "Direct Call — Verify Department First",
+          "confidence": "Medium"
+        },
+        {
+          "contact": "rhsmarketing@riphah.edu.pk",
+          "type": "email",
+          "reason": "General Inquiry",
+          "confidence": "Low"
+        }
+      ],
+      "sales_checklist": [
+        {
+          "label": "Website Available",
+          "passed": true
+        },
+        {
+          "label": "Contact Email Found",
+          "passed": true
+        },
+        {
+          "label": "Phone Found",
+          "passed": true
+        },
+        {
+          "label": "Decision Maker Found",
+          "passed": false
+        },
+        {
+          "label": "Procurement Page Present",
+          "passed": false
+        },
+        {
+          "label": "Multiple Clinical Departments",
+          "passed": true
+        },
+        {
+          "label": "Pathology Lab Present",
+          "passed": true
+        }
+      ],
+      "sales_strategy": null,
+      "sales_strategy_error": "No OpenRouter API key provided.",
+      "outreach_email": null,
+      "outreach_email_error": "No OpenRouter API key provided (set OPENROUTER_API_KEY)."
+    },
+    "executive_report_text": "========================================\nEXECUTIVE SUMMARY\n========================================\nOrganization     : Max Health Hospital\nType             : Hospital\nType Confidence  : 99% (Very High)\nConfidence Reason: Classified as Hospital based on keyword signal strength of 85 (vs. 41 for next best). Supporting departments: Emergency, ICU, Operation Theater, Pathology, Radiology.\nDepartments      : 21 detected\nLead Grade       : B (Score: 70/100)\nNext Action      : Follow up by phone/email within 30 days\n\n========================================\nKEY CONTACTS & RECOMMENDATIONS\n========================================\n  Contact                             Type   Reason                         Confidence\n  ----------------------------------- ------ ------------------------------ ----------\n  info@maxhealth.com.pk               email  General Inquiry                Medium\n  (051) 4486062                       phone  Direct Call — Verify Department First Medium\n  +92-51-8094760                      phone  Direct Call — Verify Department First Medium\n  +92-51-8094767                      phone  Direct Call — Verify Department First Medium\n  03171773347                         phone  Direct Call — Verify Department First Medium\n  3085554744                          phone  Direct Call — Verify Department First Medium\n  rhsmarketing@riphah.edu.pk          email  General Inquiry                Low\n\n========================================\nDECISION MAKERS & STAKEHOLDERS\n========================================\n  No decision makers identified.\n\n========================================\nDEPARTMENT HEADS\n========================================\n  Cardiology\n    ↓  At Max\n    ↓  Potential buyer for ECG / Echocardiography System\n  Emergency\n    ↓  Max Health Hospital\n    ↓  Potential buyer for Defibrillator / Crash Cart\n  Gastroenterology\n    ↓  Dental Department Audiologist\n    ↓  Potential buyer for Video Endoscope\n  Gynecology\n    ↓  Urology Unit\n    ↓  Potential buyer for Fetal Monitor / Ultrasound\n  ICU\n    ↓  Book Appoinment Today\n    ↓  Potential buyer for Patient Monitor / Ventilator\n  Nephrology\n    ↓  Select Department Nephrology\n    ↓  Potential buyer for Hemodialysis Machine\n  Neurology\n    ↓  Select Department Nephrology\n    ↓  Potential buyer for EEG Machine\n  Operation Theater\n    ↓  Book Appoinment Today\n    ↓  Potential buyer for Surgical Lights / Anesthesia Machine\n  Pathology\n    ↓  Burn Center Dialysis\n    ↓  Potential buyer for IVD / CBC Analyzer\n  Pediatrics\n    ↓  Ophthalmology Department Dental\n    ↓  Potential buyer for Neonatal Incubator / Infant Warmer\n  Pharmacy\n    ↓  Book Appoinment Today\n    ↓  Potential buyer for Laminar Flow Cabinet\n\n========================================\nDEPARTMENTS\n========================================\nCardiology, Dental, Dermatology, ENT, Emergency, Gastroenterology, Gynecology, ICU, Nephrology, Neurology, Oncology, Operation Theater, Ophthalmology, Orthopedics, Pathology, Pediatrics, Pharmacy, Physiotherapy, Psychiatry, Radiology, Urology\n\n========================================\nSALES OPPORTUNITIES\n========================================\n  Priority Department           Opportunity\n  -------- -------------------- -----------\n  [High  ] ICU                  ECG Machine\n  [High  ] ICU                  Feeding Pump\n  [High  ] ICU                  Infusion Pump\n  [High  ] ICU                  Mechanical Ventilator\n  [High  ] ICU                  Patient Monitor\n  [High  ] ICU                  Suction Machine\n  [High  ] ICU                  Syringe Pump\n  [High  ] Operation Theater    Anesthesia Machine\n  [High  ] Operation Theater    Electrosurgical Unit\n  [High  ] Operation Theater    Laparoscopic Tower\n  ... and 102 more (see full report JSON)\n\n========================================\nAI SALES STRATEGY\n========================================\n  Not generated: No OpenRouter API key provided.\n\n========================================\nLEAD SCORE\n========================================\n  Score : 70/100\n  Grade : B\n  + Large Hospital               +20\n  + Has Pathology                +15\n  + Has Icu                      +10\n  + Has Cath Lab                 +10\n  + Has Radiology                +10\n  + Has Contact Email            +5\n\n========================================\nSALES READINESS CHECKLIST\n========================================\n  ✔ Website Available\n  ✔ Contact Email Found\n  ✔ Phone Found\n  ✖ Decision Maker Found\n  ✖ Procurement Page Present\n  ✔ Multiple Clinical Departments\n  ✔ Pathology Lab Present\n\n========================================\nRECOMMENDED NEXT ACTION\n========================================\n  Follow up by phone/email within 30 days\n"
+  },
+  "pages": [
+    {
+      "url": "https://maxhealth.com.pk",
+      "scraped_at": "2026-07-04T08:18:05.221049Z",
+      "page_title": "Max Health Hospital",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1",
+        "theme-color": "#1bbde4",
+        "msapplication-navbutton-color": "#1bbde4",
+        "mobile-web-app-capable": "yes",
+        "apple-mobile-web-app-status-bar-style": "black-translucent",
+        "robots": "max-image-preview:large",
+        "generator": "Powered by Slider Revolution 6.7.34 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "contacts": {
+        "emails": [
+          "rhsmarketing@riphah.edu.pk"
+        ],
+        "phones": [
+          "+92-51-8094760",
+          "+92-51-8094767"
+        ]
+      },
+      "social_profiles": {
+        "facebook": [
+          "https://www.facebook.com/MaxHealth.Islamabad"
+        ],
+        "youtube": [
+          "https://www.youtube.com/@maxhealthhospital3924"
+        ],
+        "instagram": [
+          "https://www.instagram.com/max_health_isb?fbclid=IwZXh0bgNhZW0CMTAAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHp6decSPR0d3bDYMVwKMle58cs4EJzgSKsv_-rSoWrTXAcCzjf1xyjbLhrc0_aem_r2CqKDBXi7xXzln9eaDWWA"
+        ]
+      },
+      "structured_data": [],
+      "navigation": [
+        {
+          "label": "Home",
+          "url": "https://maxhealth.com.pk/"
+        },
+        {
+          "label": "About Us",
+          "url": "https://maxhealth.com.pk/about-us/"
+        },
+        {
+          "label": "Our Services",
+          "url": "https://maxhealth.com.pk/ourservices/"
+        },
+        {
+          "label": "24/7 Emergency Services – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/24-7-emergency-services-maxhealth-hospital/"
+        },
+        {
+          "label": "Anesthesia & Pain Management",
+          "url": "https://maxhealth.com.pk/service-category/anesthesia-pain-management/"
+        },
+        {
+          "label": "Bariatric (Weight Loss) Surgery — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/bariatric-weight-loss-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "ENT (Ear, Nose and Throat)",
+          "url": "https://maxhealth.com.pk/service-category/ent-ear-nose-and-throat/"
+        },
+        {
+          "label": "Cardiothoracic & Vascular Surgery— MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiothoracic-vascular-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Psychiatry & Mental Health — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/psychiatry-mental-health-maxhealth-hospital/"
+        },
+        {
+          "label": "Pulmonology & Chest Medicine",
+          "url": "https://maxhealth.com.pk/service-category/pulmonology-chest-medicine/"
+        },
+        {
+          "label": "Gastroenterology",
+          "url": "https://maxhealth.com.pk/service-category/gastroenterology/"
+        },
+        {
+          "label": "Pediatrics & Neonatology",
+          "url": "https://maxhealth.com.pk/service-category/pediatrics-neonatology/"
+        },
+        {
+          "label": "Dermatology & Cosmetology",
+          "url": "https://maxhealth.com.pk/service-category/dermatology-cosmetology/"
+        },
+        {
+          "label": "Neurology – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurology-maxhealth-hospital/"
+        },
+        {
+          "label": "Cardiology Department",
+          "url": "https://maxhealth.com.pk/service-category/cardiology-department/"
+        },
+        {
+          "label": "Breast Surgery",
+          "url": "https://maxhealth.com.pk/service-category/breast-surgery/"
+        },
+        {
+          "label": "Ophthalmology",
+          "url": "https://maxhealth.com.pk/service-category/ophthalmology/"
+        },
+        {
+          "label": "General Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-surgery/"
+        },
+        {
+          "label": "Nephrology",
+          "url": "https://maxhealth.com.pk/service-category/nephrology/"
+        },
+        {
+          "label": "Eyes",
+          "url": "https://maxhealth.com.pk/service-category/eyes/"
+        },
+        {
+          "label": "Physiotherapy & Rehabilitation",
+          "url": "https://maxhealth.com.pk/service-category/physiotherapy-rehabilitation/"
+        },
+        {
+          "label": "Peads Neonatal",
+          "url": "https://maxhealth.com.pk/service-category/peads-neonatal/"
+        },
+        {
+          "label": "Plastic, Burn & Reconstructive Surgery",
+          "url": "https://maxhealth.com.pk/service-category/plastic-burn-reconstructive-surgery/"
+        },
+        {
+          "label": "Peads Surgery",
+          "url": "https://maxhealth.com.pk/service-category/peads-surgery/"
+        },
+        {
+          "label": "Dental Department",
+          "url": "https://maxhealth.com.pk/service-category/dental-department/"
+        },
+        {
+          "label": "Orthopedic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/orthopedic-surgery/"
+        },
+        {
+          "label": "Neurosurgery – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurosurgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Gynecology & Obstetrics Department",
+          "url": "https://maxhealth.com.pk/service-category/gynecology-obstetrics-department/"
+        },
+        {
+          "label": "General & Laparoscopic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-laparoscopic-surgery/"
+        },
+        {
+          "label": "Internal Medicine",
+          "url": "https://maxhealth.com.pk/service-category/internal-medicine/"
+        },
+        {
+          "label": "Cardiac Surgery Department — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiac-surgery-department-maxhealth-hospital/"
+        },
+        {
+          "label": "Urology",
+          "url": "https://maxhealth.com.pk/service-category/urology/"
+        },
+        {
+          "label": "Thoracic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/thoracic-surgery/"
+        },
+        {
+          "label": "Our Doctors",
+          "url": "https://maxhealth.com.pk/our-doctors/"
+        },
+        {
+          "label": "Gallery",
+          "url": "https://maxhealth.com.pk/gallery/"
+        },
+        {
+          "label": "Contact Us",
+          "url": "https://maxhealth.com.pk/contact-us/"
+        }
+      ],
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Max Health Hospital -"
+        },
+        {
+          "level": "h2",
+          "text": "+92-51-8094767 \n+92-51-8094760-66"
+        },
+        {
+          "level": "h2",
+          "text": "Book Appoinment Today!"
+        },
+        {
+          "level": "h1",
+          "text": "OUR SERVICES"
+        },
+        {
+          "level": "h3",
+          "text": "24/7 Emergency"
+        },
+        {
+          "level": "h3",
+          "text": "Renal Transplant Center"
+        },
+        {
+          "level": "h3",
+          "text": "24/7 Pharmacy"
+        },
+        {
+          "level": "h3",
+          "text": "Operation Theater"
+        },
+        {
+          "level": "h3",
+          "text": "ICU & HDU"
+        },
+        {
+          "level": "h3",
+          "text": "Neonatal ICU"
+        },
+        {
+          "level": "h3",
+          "text": "Burn Center"
+        },
+        {
+          "level": "h3",
+          "text": "Dialysis Unit"
+        },
+        {
+          "level": "h3",
+          "text": "Rehabilitation"
+        },
+        {
+          "level": "h3",
+          "text": "Dental Unit"
+        },
+        {
+          "level": "h3",
+          "text": "ERCP"
+        },
+        {
+          "level": "h3",
+          "text": "Endoscopy"
+        },
+        {
+          "level": "h3",
+          "text": "Ultrasound, X-Ray & CT Scan"
+        },
+        {
+          "level": "h3",
+          "text": "Pathology Lab"
+        },
+        {
+          "level": "h3",
+          "text": "Cath Lab"
+        },
+        {
+          "level": "h2",
+          "text": "MAX Hospital"
+        },
+        {
+          "level": "h4",
+          "text": "Meet Our Team"
+        },
+        {
+          "level": "h2",
+          "text": "Look at  gallery for details"
+        },
+        {
+          "level": "h3",
+          "text": "Complete Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "Medical Scanner"
+        },
+        {
+          "level": "h3",
+          "text": "Bariatric Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "Modern Medicine"
+        },
+        {
+          "level": "h3",
+          "text": "Heart Transplant"
+        },
+        {
+          "level": "h3",
+          "text": "Remote Operations"
+        },
+        {
+          "level": "h3",
+          "text": "Ventilator Monitor"
+        },
+        {
+          "level": "h3",
+          "text": "Medical Training"
+        },
+        {
+          "level": "h3",
+          "text": "Neurology Surgeon"
+        },
+        {
+          "level": "h3",
+          "text": "Looking for professional & trusted doctors?   Don't hesitate to contact us."
+        },
+        {
+          "level": "h4",
+          "text": "Testimonials"
+        },
+        {
+          "level": "h2",
+          "text": "What people say about medical health care"
+        },
+        {
+          "level": "h4",
+          "text": "84 %"
+        },
+        {
+          "level": "h3",
+          "text": "Happy Patients"
+        },
+        {
+          "level": "h3",
+          "text": "Abdul Razaq Khan"
+        },
+        {
+          "level": "h3",
+          "text": "Dr Alia Ahmed"
+        },
+        {
+          "level": "h3",
+          "text": "Dr Amir Ghafoor"
+        },
+        {
+          "level": "h3",
+          "text": "Dr Faisal Hanif"
+        },
+        {
+          "level": "h3",
+          "text": "Dr Faisal Shafiq Malik"
+        },
+        {
+          "level": "h3",
+          "text": "Dr Hamza Ulfat"
+        },
+        {
+          "level": "h4",
+          "text": "General Query"
+        },
+        {
+          "level": "h2",
+          "text": "Get every single update here med info"
+        },
+        {
+          "level": "h4",
+          "text": "Keeping You Well."
+        },
+        {
+          "level": "h2",
+          "text": "Latest News & Updates"
+        },
+        {
+          "level": "h3",
+          "text": "Riphah’s Islamic International Dental Hospital Launches State-of-the-Art Paediatric Dentistry Department"
+        },
+        {
+          "level": "h3",
+          "text": "IIDH Hosts Free Dental Camp for Special Olympics Pakistan at Newly Launched Pediatrics Unit"
+        },
+        {
+          "level": "h3",
+          "text": "Riphah Dental Experts Serve 220+ Visitors at Hajj & Umrah Exhibition"
+        },
+        {
+          "level": "h1",
+          "text": "OUR PARTNERS"
+        },
+        {
+          "level": "h3",
+          "text": "With our professional excellence, we are aiming to have a long lasting relationship with our esteemed partners."
+        },
+        {
+          "level": "h3",
+          "text": "Homepage 02"
+        },
+        {
+          "level": "h2",
+          "text": "Departmants"
+        },
+        {
+          "level": "h2",
+          "text": "Sign Up To Get Latest Updates"
+        },
+        {
+          "level": "h2",
+          "text": "Follow on socials"
+        },
+        {
+          "level": "h2",
+          "text": "Opening Hours OPD"
+        },
+        {
+          "level": "h2",
+          "text": "24/7 Emergency"
+        }
+      ],
+      "content_blocks": [
+        "Select Department Nephrology Department Neurology Department Peads Surgeon Department Plastic Surgery Department Urologist Department Anesthetic Department Orthopedic Departments General Surgeon Gynecologist Department Ophthalmology Department Dental Department Audiologist Department Dermatology Department Pulmonologist Department Pediatrics Department Gastroenterology Department Cardiologist Department Speech Therapy / Autism Department Allied & Rehab (Physio/Nutrition)",
+        "Select Doctor Dr. Sameeh J Khan Dr. Khawar Sultan",
+        "Select Doctor Dr. Sajid Nazir Bahatti Dr. Amir Shah",
+        "Select Doctor Dr. Amjad Ch Dr. Qasir Malik Dr. Ayesha Azmat Dr. Asma Afreedi",
+        "Select Doctor Prof. Dr. Hameed ud din Dr. Tariq Iqbal",
+        "Select Doctor Dr. Musharraf Ali Khan Dr. Sajid Mumtaz Qazi",
+        "Select Doctor Dr. Tashfeen Imtiaz Dr. Burhan Ul Haq Dr. Ashfaq Nasir Khan Dr. Adnan Khokhar",
+        "Select Doctor Dr. Kausar Bangash Prof. Dr. Saira Afghan Dr. Anisa Saleem Dr. Shahdana Gull Dr. Shumaila Yousef Dr. Shagufta Yasmeen Dr. Samina Arshad Dr. Nosheela Javed",
+        "Select Doctor Dr. Hussain Sheikh Dr. Mahdi Naqvi Dr. Aqsa Naseer",
+        "Select Doctor Dr. Adnan Tahir Dr. Amir Niaz Dr. Hamid Iqbal Dr. Kashan Aslam Shah",
+        "Select Doctor Dr. Abdul Ghafoor (Physiotherapist) Ms. Ayesha Haq (Nutritionist)",
+        "Select Doctor Dr. Muhammad Naseer Khan Dr. Ismail Younis Hamad",
+        "Time Slot Monday 11:00am-09:00pm Tuesday 11:00am-09:00pm Wednesday 11:00am-09:00pm Thursday 11:00am-09:00pm Friday 11:00am-09:00pm Saturday 11:00am-09:00pm",
+        "At MaxHealth Hospital, we are dedicated to delivering healthcare excellence with compassion, integrity, and innovation. As a valued part of Riphah Healthcare Services, we maintain the highest standards of medical care while ensuring patient trust and comfort. Our hospital offers a comprehensive range of medical services under one roof, including a state-of-the-art Cath Lab, advanced diagnostics, surgical care, and specialized treatment departments. We are committed not only to treating illnesses but also to promoting overall well-being and healthier communities. At MaxHealth, every patient is our priority, and every life matters. We invite you to experience healthcare that truly cares.",
+        "Dr. Sikandar Shahzad Chief Operating Officer (COO) MaxHealth Hospital",
+        "I appreciate your hospital really good environment and excellent patient care. You are continuously handle patient treatment wonderfully. Thanks for your great service. Please enjoy the chocolates.",
+        "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur officia deserunt mollit anim id est laborum esse cillum dolore eu fugiat.",
+        "You can request an appointment online through our website or call our reception desk directly. Please note that online requests are reviewed by our team, and your appointment will be confirmed via phone call or message.",
+        "We provide a full range of dental services, including general dentistry, orthodontics (braces and aligners), dental implants, cosmetic dentistry, pediatric dentistry, root canal treatments, oral surgery, and preventive care. Please check our services section for details.",
+        "Yes, our hospital is on the panel of several leading insurance companies in Pakistan. Please contact our reception for the updated list of insurance partners and coverage details."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "https://maxhealth.com.pk/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        },
+        {
+          "src": "https://maxhealth.com.pk/trial/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        }
+      ]
+    },
+    {
+      "url": "https://maxhealth.com.pk/about-us",
+      "scraped_at": "2026-07-04T08:18:13.752664Z",
+      "page_title": "About Us – Max Health Hospital",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1",
+        "theme-color": "#1bbde4",
+        "msapplication-navbutton-color": "#1bbde4",
+        "mobile-web-app-capable": "yes",
+        "apple-mobile-web-app-status-bar-style": "black-translucent",
+        "robots": "max-image-preview:large",
+        "generator": "Powered by Slider Revolution 6.7.34 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "contacts": {
+        "emails": [
+          "rhsmarketing@riphah.edu.pk"
+        ],
+        "phones": [
+          "+92-51-8094760",
+          "03171773347"
+        ]
+      },
+      "social_profiles": {
+        "facebook": [
+          "https://www.facebook.com/MaxHealth.Islamabad"
+        ],
+        "youtube": [
+          "https://www.youtube.com/@maxhealthhospital3924"
+        ],
+        "instagram": [
+          "https://www.instagram.com/max_health_isb?fbclid=IwZXh0bgNhZW0CMTAAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHp6decSPR0d3bDYMVwKMle58cs4EJzgSKsv_-rSoWrTXAcCzjf1xyjbLhrc0_aem_r2CqKDBXi7xXzln9eaDWWA"
+        ]
+      },
+      "structured_data": [],
+      "navigation": [
+        {
+          "label": "Home",
+          "url": "https://maxhealth.com.pk/"
+        },
+        {
+          "label": "About Us",
+          "url": "https://maxhealth.com.pk/about-us/"
+        },
+        {
+          "label": "Our Services",
+          "url": "https://maxhealth.com.pk/ourservices/"
+        },
+        {
+          "label": "24/7 Emergency Services – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/24-7-emergency-services-maxhealth-hospital/"
+        },
+        {
+          "label": "Anesthesia & Pain Management",
+          "url": "https://maxhealth.com.pk/service-category/anesthesia-pain-management/"
+        },
+        {
+          "label": "Bariatric (Weight Loss) Surgery — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/bariatric-weight-loss-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "ENT (Ear, Nose and Throat)",
+          "url": "https://maxhealth.com.pk/service-category/ent-ear-nose-and-throat/"
+        },
+        {
+          "label": "Cardiothoracic & Vascular Surgery— MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiothoracic-vascular-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Psychiatry & Mental Health — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/psychiatry-mental-health-maxhealth-hospital/"
+        },
+        {
+          "label": "Pulmonology & Chest Medicine",
+          "url": "https://maxhealth.com.pk/service-category/pulmonology-chest-medicine/"
+        },
+        {
+          "label": "Gastroenterology",
+          "url": "https://maxhealth.com.pk/service-category/gastroenterology/"
+        },
+        {
+          "label": "Pediatrics & Neonatology",
+          "url": "https://maxhealth.com.pk/service-category/pediatrics-neonatology/"
+        },
+        {
+          "label": "Dermatology & Cosmetology",
+          "url": "https://maxhealth.com.pk/service-category/dermatology-cosmetology/"
+        },
+        {
+          "label": "Neurology – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurology-maxhealth-hospital/"
+        },
+        {
+          "label": "Cardiology Department",
+          "url": "https://maxhealth.com.pk/service-category/cardiology-department/"
+        },
+        {
+          "label": "Breast Surgery",
+          "url": "https://maxhealth.com.pk/service-category/breast-surgery/"
+        },
+        {
+          "label": "Ophthalmology",
+          "url": "https://maxhealth.com.pk/service-category/ophthalmology/"
+        },
+        {
+          "label": "General Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-surgery/"
+        },
+        {
+          "label": "Nephrology",
+          "url": "https://maxhealth.com.pk/service-category/nephrology/"
+        },
+        {
+          "label": "Eyes",
+          "url": "https://maxhealth.com.pk/service-category/eyes/"
+        },
+        {
+          "label": "Physiotherapy & Rehabilitation",
+          "url": "https://maxhealth.com.pk/service-category/physiotherapy-rehabilitation/"
+        },
+        {
+          "label": "Peads Neonatal",
+          "url": "https://maxhealth.com.pk/service-category/peads-neonatal/"
+        },
+        {
+          "label": "Plastic, Burn & Reconstructive Surgery",
+          "url": "https://maxhealth.com.pk/service-category/plastic-burn-reconstructive-surgery/"
+        },
+        {
+          "label": "Peads Surgery",
+          "url": "https://maxhealth.com.pk/service-category/peads-surgery/"
+        },
+        {
+          "label": "Dental Department",
+          "url": "https://maxhealth.com.pk/service-category/dental-department/"
+        },
+        {
+          "label": "Orthopedic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/orthopedic-surgery/"
+        },
+        {
+          "label": "Neurosurgery – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurosurgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Gynecology & Obstetrics Department",
+          "url": "https://maxhealth.com.pk/service-category/gynecology-obstetrics-department/"
+        },
+        {
+          "label": "General & Laparoscopic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-laparoscopic-surgery/"
+        },
+        {
+          "label": "Internal Medicine",
+          "url": "https://maxhealth.com.pk/service-category/internal-medicine/"
+        },
+        {
+          "label": "Cardiac Surgery Department — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiac-surgery-department-maxhealth-hospital/"
+        },
+        {
+          "label": "Urology",
+          "url": "https://maxhealth.com.pk/service-category/urology/"
+        },
+        {
+          "label": "Thoracic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/thoracic-surgery/"
+        },
+        {
+          "label": "Our Doctors",
+          "url": "https://maxhealth.com.pk/our-doctors/"
+        },
+        {
+          "label": "Gallery",
+          "url": "https://maxhealth.com.pk/gallery/"
+        },
+        {
+          "label": "Contact Us",
+          "url": "https://maxhealth.com.pk/contact-us/"
+        }
+      ],
+      "headings": [
+        {
+          "level": "h1",
+          "text": "About Us"
+        },
+        {
+          "level": "h2",
+          "text": "Board Members"
+        },
+        {
+          "level": "h1",
+          "text": "Performance Report"
+        },
+        {
+          "level": "h2",
+          "text": "Departmants"
+        },
+        {
+          "level": "h2",
+          "text": "Sign Up To Get Latest Updates"
+        },
+        {
+          "level": "h2",
+          "text": "Follow on socials"
+        },
+        {
+          "level": "h2",
+          "text": "Opening Hours OPD"
+        },
+        {
+          "level": "h2",
+          "text": "24/7 Emergency"
+        }
+      ],
+      "content_blocks": [
+        "Number of patients examined during the year 2023-24"
+      ],
+      "tables": [
+        {
+          "headers": [],
+          "rows": [
+            [
+              "Department",
+              "Patients Examined"
+            ],
+            [
+              "OPD",
+              "13628"
+            ],
+            [
+              "IPD",
+              "5018"
+            ],
+            [
+              "Surgeries",
+              "5553"
+            ],
+            [
+              "Total",
+              "24,199"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://maxhealth.com.pk/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        },
+        {
+          "src": "https://maxhealth.com.pk/trial/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        }
+      ]
+    },
+    {
+      "url": "https://maxhealth.com.pk/ourservices",
+      "scraped_at": "2026-07-04T08:18:20.129820Z",
+      "page_title": "Our Services – Max Health Hospital",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1",
+        "theme-color": "#1bbde4",
+        "msapplication-navbutton-color": "#1bbde4",
+        "mobile-web-app-capable": "yes",
+        "apple-mobile-web-app-status-bar-style": "black-translucent",
+        "robots": "max-image-preview:large",
+        "generator": "Powered by Slider Revolution 6.7.34 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "contacts": {
+        "emails": [
+          "rhsmarketing@riphah.edu.pk"
+        ],
+        "phones": [
+          "+92-51-8094760"
+        ]
+      },
+      "social_profiles": {
+        "facebook": [
+          "https://www.facebook.com/MaxHealth.Islamabad"
+        ],
+        "youtube": [
+          "https://www.youtube.com/@maxhealthhospital3924"
+        ],
+        "instagram": [
+          "https://www.instagram.com/max_health_isb?fbclid=IwZXh0bgNhZW0CMTAAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHp6decSPR0d3bDYMVwKMle58cs4EJzgSKsv_-rSoWrTXAcCzjf1xyjbLhrc0_aem_r2CqKDBXi7xXzln9eaDWWA"
+        ]
+      },
+      "structured_data": [],
+      "navigation": [
+        {
+          "label": "Home",
+          "url": "https://maxhealth.com.pk/"
+        },
+        {
+          "label": "About Us",
+          "url": "https://maxhealth.com.pk/about-us/"
+        },
+        {
+          "label": "Our Services",
+          "url": "https://maxhealth.com.pk/ourservices/"
+        },
+        {
+          "label": "24/7 Emergency Services – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/24-7-emergency-services-maxhealth-hospital/"
+        },
+        {
+          "label": "Anesthesia & Pain Management",
+          "url": "https://maxhealth.com.pk/service-category/anesthesia-pain-management/"
+        },
+        {
+          "label": "Bariatric (Weight Loss) Surgery — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/bariatric-weight-loss-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "ENT (Ear, Nose and Throat)",
+          "url": "https://maxhealth.com.pk/service-category/ent-ear-nose-and-throat/"
+        },
+        {
+          "label": "Cardiothoracic & Vascular Surgery— MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiothoracic-vascular-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Psychiatry & Mental Health — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/psychiatry-mental-health-maxhealth-hospital/"
+        },
+        {
+          "label": "Pulmonology & Chest Medicine",
+          "url": "https://maxhealth.com.pk/service-category/pulmonology-chest-medicine/"
+        },
+        {
+          "label": "Gastroenterology",
+          "url": "https://maxhealth.com.pk/service-category/gastroenterology/"
+        },
+        {
+          "label": "Pediatrics & Neonatology",
+          "url": "https://maxhealth.com.pk/service-category/pediatrics-neonatology/"
+        },
+        {
+          "label": "Dermatology & Cosmetology",
+          "url": "https://maxhealth.com.pk/service-category/dermatology-cosmetology/"
+        },
+        {
+          "label": "Neurology – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurology-maxhealth-hospital/"
+        },
+        {
+          "label": "Cardiology Department",
+          "url": "https://maxhealth.com.pk/service-category/cardiology-department/"
+        },
+        {
+          "label": "Breast Surgery",
+          "url": "https://maxhealth.com.pk/service-category/breast-surgery/"
+        },
+        {
+          "label": "Ophthalmology",
+          "url": "https://maxhealth.com.pk/service-category/ophthalmology/"
+        },
+        {
+          "label": "General Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-surgery/"
+        },
+        {
+          "label": "Nephrology",
+          "url": "https://maxhealth.com.pk/service-category/nephrology/"
+        },
+        {
+          "label": "Eyes",
+          "url": "https://maxhealth.com.pk/service-category/eyes/"
+        },
+        {
+          "label": "Physiotherapy & Rehabilitation",
+          "url": "https://maxhealth.com.pk/service-category/physiotherapy-rehabilitation/"
+        },
+        {
+          "label": "Peads Neonatal",
+          "url": "https://maxhealth.com.pk/service-category/peads-neonatal/"
+        },
+        {
+          "label": "Plastic, Burn & Reconstructive Surgery",
+          "url": "https://maxhealth.com.pk/service-category/plastic-burn-reconstructive-surgery/"
+        },
+        {
+          "label": "Peads Surgery",
+          "url": "https://maxhealth.com.pk/service-category/peads-surgery/"
+        },
+        {
+          "label": "Dental Department",
+          "url": "https://maxhealth.com.pk/service-category/dental-department/"
+        },
+        {
+          "label": "Orthopedic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/orthopedic-surgery/"
+        },
+        {
+          "label": "Neurosurgery – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurosurgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Gynecology & Obstetrics Department",
+          "url": "https://maxhealth.com.pk/service-category/gynecology-obstetrics-department/"
+        },
+        {
+          "label": "General & Laparoscopic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-laparoscopic-surgery/"
+        },
+        {
+          "label": "Internal Medicine",
+          "url": "https://maxhealth.com.pk/service-category/internal-medicine/"
+        },
+        {
+          "label": "Cardiac Surgery Department — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiac-surgery-department-maxhealth-hospital/"
+        },
+        {
+          "label": "Urology",
+          "url": "https://maxhealth.com.pk/service-category/urology/"
+        },
+        {
+          "label": "Thoracic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/thoracic-surgery/"
+        },
+        {
+          "label": "Our Doctors",
+          "url": "https://maxhealth.com.pk/our-doctors/"
+        },
+        {
+          "label": "Gallery",
+          "url": "https://maxhealth.com.pk/gallery/"
+        },
+        {
+          "label": "Contact Us",
+          "url": "https://maxhealth.com.pk/contact-us/"
+        }
+      ],
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Our Services"
+        },
+        {
+          "level": "h3",
+          "text": "Internal Medicine"
+        },
+        {
+          "level": "h3",
+          "text": "General & Laparoscopic Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "Neurosurgery – Maxhealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Thoracic Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "Nephrology"
+        },
+        {
+          "level": "h3",
+          "text": "Cardiac Surgery Department — MaxHealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Urology"
+        },
+        {
+          "level": "h3",
+          "text": "Gynecology & Obstetrics Department"
+        },
+        {
+          "level": "h3",
+          "text": "Orthopedic Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "Dental Department"
+        },
+        {
+          "level": "h3",
+          "text": "Plastic, Burn & Reconstructive Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "Peads Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "Peads Neonatal"
+        },
+        {
+          "level": "h3",
+          "text": "Physiotherapy & Rehabilitation"
+        },
+        {
+          "level": "h3",
+          "text": "Eyes"
+        },
+        {
+          "level": "h3",
+          "text": "ENT (Ear, Nose and Throat)"
+        },
+        {
+          "level": "h3",
+          "text": "General Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "Ophthalmology"
+        },
+        {
+          "level": "h3",
+          "text": "Breast Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "24/7 Emergency Services – Maxhealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Cardiology Department"
+        },
+        {
+          "level": "h3",
+          "text": "Neurology – Maxhealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Pediatrics & Neonatology"
+        },
+        {
+          "level": "h3",
+          "text": "Gastroenterology"
+        },
+        {
+          "level": "h3",
+          "text": "Pulmonology & Chest Medicine"
+        },
+        {
+          "level": "h3",
+          "text": "Dermatology & Cosmetology"
+        },
+        {
+          "level": "h3",
+          "text": "Anesthesia & Pain Management"
+        },
+        {
+          "level": "h3",
+          "text": "Psychiatry & Mental Health — MaxHealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Bariatric (Weight Loss) Surgery — MaxHealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Cardiothoracic & Vascular Surgery— MaxHealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Our Services"
+        },
+        {
+          "level": "h2",
+          "text": "Departmants"
+        },
+        {
+          "level": "h2",
+          "text": "Sign Up To Get Latest Updates"
+        },
+        {
+          "level": "h2",
+          "text": "Follow on socials"
+        },
+        {
+          "level": "h2",
+          "text": "Opening Hours OPD"
+        },
+        {
+          "level": "h2",
+          "text": "24/7 Emergency"
+        }
+      ],
+      "content_blocks": [
+        "At MaxHealth Hospital, our Internal Medicine Department provides expert care for a wide range of adult medical conditions, including: Diabetes Hypertension Infectious Diseases Metabolic and Autoimmune Disorders Our team of experienced physicians offers comprehensive evaluations, diagnostic workups, and individualized treatment plans, with a strong focus […]",
+        "At MaxHealth Hospital, our General & Laparoscopic Surgery Department provides expert surgical care using both conventional and minimally invasive techniques. We are committed to delivering safe, effective procedures that promote faster recovery and minimal discomfort. We specialize in surgical management of: Hernias Gallstones & Gallbladder […]",
+        "The Neurosurgery Department at Maxhealth Hospital is at the forefront of adopting the latest advancements in neurosurgical care. Equipped with cutting-edge technology—including a neuro-navigation system, high-end surgical microscope, and neuro-endoscope—the department is designed to perform highly precise and minimally invasive procedures in line with international […]",
+        "Thoracic surgery encompasses the operative, perioperative, and surgical critical care of patients who acquired and congenital pathologic conditions within the chest. Thoracic surgeons treat diseased or injured organs in the chest. Only smart art thoracic surgery in Islamabad.We gave services under care of Dr. Tashfeen Imtiaz […]",
+        "At MaxHealth Hospital, our Nephrology Department provides specialized care for a wide range of kidney conditions, including: Chronic Kidney Disease (CKD) Renal Failure Hypertension-related Kidney Disorders Diabetic Nephropathy Glomerular Diseases Our comprehensive facilities include: Hemodialysis Units Renal Transplant Services Renal Biopsies Long-term management and follow-up […]",
+        "At MaxHealth Hospital, our Cardiac Surgery Department delivers advanced surgical care for patients with complex heart conditions. Staffed by a team of highly skilled cardiac surgeons and specialized support personnel, we perform a wide range of procedures, including: Coronary Artery Bypass Grafting (CABG) Valve Repair […]",
+        "Max-Health Hospital urologists specialize in surgeries supporting the treatment and management of disorders that affect the kidneys, urinary tract and male reproductive organs. In addition to booked surgical sessions, the Urology Unit also offers a weekly outpatient clinic. We gave services under care of Prof. Dr. Musharaf […]",
+        "The Gynecology & Obstetrics Department at MaxHealth Hospital is a state-of-the-art facility in Islamabad. Our aim is to provide personalized care to every patient and make the journey of pregnancy and childbirth memorable for mothers. We provide client-focused maternity and neonatal care 24/7. A dedicated […]",
+        "At MaxHealth Hospital, our Orthopedic Surgery Department delivers expert care for a wide range of bone, joint, and musculoskeletal conditions. From trauma and fracture management to spine surgeries and joint replacements, we combine advanced medical techniques with a patient-centered approach to ensure faster recovery and […]",
+        "The Dental Department at MaxHealth Hospital features a fully operational Dental Surgery Unit equipped with state-of-the-art dental technology. Our department is managed by highly skilled and qualified dentists who have received specialized training in their respective fields. We strictly adhere to infection control and dental […]",
+        "The Plastic, Burn & Reconstructive Surgery Department at MaxHealth Hospital offers a comprehensive range of services—from life-saving reconstructive procedures to advanced cosmetic enhancements. Our state-of-the-art Burn Center is fully equipped to manage all degrees of burn injuries, with expert surgeons available 24/7 to respond to […]",
+        "Max-Health Hospital pediatric surgeons specialize specifically in caring for the surgical needs of children of all ages. Treating infants and children requires skills, and our medical specialists are specifically trained to involve your family in your child’s treatment and ensure that treatment is comprehensive. We gave […]",
+        "Emergency cases are channeled through the Pediatric Casualty department where the neonatologist is informed accordingly for further consultation and management. Inpatients are managed in the Neonatal High Dependency Unit or Children’s Ward which has provisions for private and general ward beds. Care may be escalated to […]",
+        "The Physiotherapy Department at MaxHealth Hospital is dedicated to helping patients enhance their mobility, strength, and overall quality of life. Our highly trained team of physiotherapists specializes in neurological, orthopedic, and cardiac rehabilitation, offering tailored therapy plans for both inpatients and outpatients. We aim to […]",
+        "The Ophthalmology Unit at Max-Health Hospital is led by highly trained consultants who specialize in conditions such as cornea, cataracts, oculoplastic and glaucoma. We provide comprehensive eye care diagnostic and treatment services for both routine and complex eye conditions, supported by our state-of-the-art equipment.This allows us […]",
+        "Our ENT Unit offers both routine and emergency consultations for conditions related to ear, nose, throat, head and neck conditions.Our surgical services include:•    Otology•    Rhinology•    Laryngology•    Head and neck surgery",
+        "Medical emergencies can happen at any time—day or night. The Emergency Department at Maxhealth Hospital is committed to delivering timely, compassionate, and expert medical care when you need it most. Our top priority is to ensure patients receive immediate and effective treatment. The emergency team—consisting […]",
+        "At MaxHealth Hospital, our Cardiology Department is dedicated to delivering exceptional heart care through cutting-edge diagnostics and evidence-based treatment strategies. We specialize in the management of: Heart Failure Coronary Artery Disease Arrhythmias Hypertension Our department is equipped with state-of-the-art diagnostic tools, including: ECG (Electrocardiography) Echocardiography […]",
+        "The major objective of the Neurosciences and Stroke Centre at Maxhealth Hospital is to provide superior clinical treatment to patients with neurological illnesses such as Dementia, Stroke, Parkinson’s disease, Alzheimer’s, Epilepsy, Multiple Sclerosis (MS), and related conditions. With the rapid advancement of neuro-technology and ongoing […]",
+        "At MaxHealth Hospital, our Pediatrics & Neonatology Department offers compassionate, comprehensive care for newborns, infants, and children. From routine wellness checks to managing complex medical conditions, our dedicated team ensures your child receives the best possible care in a nurturing environment. Our services include: Newborn […]",
+        "At MaxHealth Hospital, our Pulmonology Department provides expert care for a wide range of respiratory conditions, including: Asthma Chronic Obstructive Pulmonary Disease (COPD) Pneumonia Tuberculosis Sleep Apnea We offer advanced diagnostic and therapeutic services such as: Pulmonary Function Testing Bronchoscopy Comprehensive Breathing Therapies Our department […]",
+        "At MaxHealth Hospital, our Dermatology & Cosmetology Department offers comprehensive care for skin, hair, and nail conditions through both medical and cosmetic treatments. Our team of trained specialists is dedicated to helping you achieve healthy, radiant skin and hair. Our services include: Acne Management Treatment […]",
+        "MaxHealth Hospital’s Anesthesia & Pain Management Department plays a vital role in ensuring surgical safety and providing relief from chronic pain. Our experienced anesthesiologists offer general, regional, and local anesthesia tailored to each patient’s needs. Additionally, we provide specialized pain management services for post-surgical recovery, […]",
+        "The Psychiatry & Mental Health Department at MaxHealth Hospital is staffed by experienced psychiatrists and psychologists dedicated to treating a wide range of mental and psychological health conditions. Recognized as a leading provider of psychiatric care, we deliver comprehensive clinical, therapeutic, and academic services to […]",
+        "At MaxHealth Hospital, our Bariatric Surgery Department offers advanced surgical solutions to help individuals achieve lasting weight loss and improved health. Bariatric surgery—commonly known as weight loss surgery—involves procedures that alter the digestive system to support significant and sustainable weight reduction. It is especially beneficial […]",
+        "The Cardiothoracic & Vascular Surgery Department at MaxHealth Hospital offers specialized surgical care for conditions affecting the organs within the chest—excluding the heart. Our expert surgeons manage a wide range of complex thoracic cases, including lung diseases such as tuberculosis and cancer, airway disorders like […]"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "https://maxhealth.com.pk/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        },
+        {
+          "src": "https://maxhealth.com.pk/trial/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        }
+      ]
+    },
+    {
+      "url": "https://maxhealth.com.pk/service-category/24-7-emergency-services-maxhealth-hospital",
+      "scraped_at": "2026-07-04T08:18:25.728835Z",
+      "page_title": "24/7 Emergency Services – Maxhealth Hospital – Max Health Hospital",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1",
+        "theme-color": "#1bbde4",
+        "msapplication-navbutton-color": "#1bbde4",
+        "mobile-web-app-capable": "yes",
+        "apple-mobile-web-app-status-bar-style": "black-translucent",
+        "robots": "max-image-preview:large",
+        "generator": "Powered by Slider Revolution 6.7.34 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "contacts": {
+        "emails": [
+          "rhsmarketing@riphah.edu.pk"
+        ],
+        "phones": [
+          "+92-51-8094760"
+        ]
+      },
+      "social_profiles": {
+        "facebook": [
+          "https://www.facebook.com/MaxHealth.Islamabad"
+        ],
+        "youtube": [
+          "https://www.youtube.com/@maxhealthhospital3924"
+        ],
+        "instagram": [
+          "https://www.instagram.com/max_health_isb?fbclid=IwZXh0bgNhZW0CMTAAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHp6decSPR0d3bDYMVwKMle58cs4EJzgSKsv_-rSoWrTXAcCzjf1xyjbLhrc0_aem_r2CqKDBXi7xXzln9eaDWWA"
+        ]
+      },
+      "structured_data": [],
+      "navigation": [
+        {
+          "label": "Home",
+          "url": "https://maxhealth.com.pk/"
+        },
+        {
+          "label": "About Us",
+          "url": "https://maxhealth.com.pk/about-us/"
+        },
+        {
+          "label": "Our Services",
+          "url": "https://maxhealth.com.pk/ourservices/"
+        },
+        {
+          "label": "24/7 Emergency Services – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/24-7-emergency-services-maxhealth-hospital/"
+        },
+        {
+          "label": "Anesthesia & Pain Management",
+          "url": "https://maxhealth.com.pk/service-category/anesthesia-pain-management/"
+        },
+        {
+          "label": "Bariatric (Weight Loss) Surgery — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/bariatric-weight-loss-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "ENT (Ear, Nose and Throat)",
+          "url": "https://maxhealth.com.pk/service-category/ent-ear-nose-and-throat/"
+        },
+        {
+          "label": "Cardiothoracic & Vascular Surgery— MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiothoracic-vascular-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Psychiatry & Mental Health — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/psychiatry-mental-health-maxhealth-hospital/"
+        },
+        {
+          "label": "Pulmonology & Chest Medicine",
+          "url": "https://maxhealth.com.pk/service-category/pulmonology-chest-medicine/"
+        },
+        {
+          "label": "Gastroenterology",
+          "url": "https://maxhealth.com.pk/service-category/gastroenterology/"
+        },
+        {
+          "label": "Pediatrics & Neonatology",
+          "url": "https://maxhealth.com.pk/service-category/pediatrics-neonatology/"
+        },
+        {
+          "label": "Dermatology & Cosmetology",
+          "url": "https://maxhealth.com.pk/service-category/dermatology-cosmetology/"
+        },
+        {
+          "label": "Neurology – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurology-maxhealth-hospital/"
+        },
+        {
+          "label": "Cardiology Department",
+          "url": "https://maxhealth.com.pk/service-category/cardiology-department/"
+        },
+        {
+          "label": "Breast Surgery",
+          "url": "https://maxhealth.com.pk/service-category/breast-surgery/"
+        },
+        {
+          "label": "Ophthalmology",
+          "url": "https://maxhealth.com.pk/service-category/ophthalmology/"
+        },
+        {
+          "label": "General Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-surgery/"
+        },
+        {
+          "label": "Nephrology",
+          "url": "https://maxhealth.com.pk/service-category/nephrology/"
+        },
+        {
+          "label": "Eyes",
+          "url": "https://maxhealth.com.pk/service-category/eyes/"
+        },
+        {
+          "label": "Physiotherapy & Rehabilitation",
+          "url": "https://maxhealth.com.pk/service-category/physiotherapy-rehabilitation/"
+        },
+        {
+          "label": "Peads Neonatal",
+          "url": "https://maxhealth.com.pk/service-category/peads-neonatal/"
+        },
+        {
+          "label": "Plastic, Burn & Reconstructive Surgery",
+          "url": "https://maxhealth.com.pk/service-category/plastic-burn-reconstructive-surgery/"
+        },
+        {
+          "label": "Peads Surgery",
+          "url": "https://maxhealth.com.pk/service-category/peads-surgery/"
+        },
+        {
+          "label": "Dental Department",
+          "url": "https://maxhealth.com.pk/service-category/dental-department/"
+        },
+        {
+          "label": "Orthopedic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/orthopedic-surgery/"
+        },
+        {
+          "label": "Neurosurgery – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurosurgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Gynecology & Obstetrics Department",
+          "url": "https://maxhealth.com.pk/service-category/gynecology-obstetrics-department/"
+        },
+        {
+          "label": "General & Laparoscopic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-laparoscopic-surgery/"
+        },
+        {
+          "label": "Internal Medicine",
+          "url": "https://maxhealth.com.pk/service-category/internal-medicine/"
+        },
+        {
+          "label": "Cardiac Surgery Department — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiac-surgery-department-maxhealth-hospital/"
+        },
+        {
+          "label": "Urology",
+          "url": "https://maxhealth.com.pk/service-category/urology/"
+        },
+        {
+          "label": "Thoracic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/thoracic-surgery/"
+        },
+        {
+          "label": "Our Doctors",
+          "url": "https://maxhealth.com.pk/our-doctors/"
+        },
+        {
+          "label": "Gallery",
+          "url": "https://maxhealth.com.pk/gallery/"
+        },
+        {
+          "label": "Contact Us",
+          "url": "https://maxhealth.com.pk/contact-us/"
+        }
+      ],
+      "headings": [
+        {
+          "level": "h1",
+          "text": "24/7 Emergency Services – Maxhealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Cardiothoracic & Vascular Surgery— MaxHealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Bariatric (Weight Loss) Surgery — MaxHealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Psychiatry & Mental Health — MaxHealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Anesthesia & Pain Management"
+        },
+        {
+          "level": "h3",
+          "text": "Dermatology & Cosmetology"
+        },
+        {
+          "level": "h3",
+          "text": "Pulmonology & Chest Medicine"
+        },
+        {
+          "level": "h3",
+          "text": "Gastroenterology"
+        },
+        {
+          "level": "h3",
+          "text": "Pediatrics & Neonatology"
+        },
+        {
+          "level": "h3",
+          "text": "Neurology – Maxhealth Hospital"
+        },
+        {
+          "level": "h2",
+          "text": "Departmants"
+        },
+        {
+          "level": "h2",
+          "text": "Sign Up To Get Latest Updates"
+        },
+        {
+          "level": "h2",
+          "text": "Follow on socials"
+        },
+        {
+          "level": "h2",
+          "text": "Opening Hours OPD"
+        },
+        {
+          "level": "h2",
+          "text": "24/7 Emergency"
+        }
+      ],
+      "content_blocks": [
+        "The Cardiothoracic & Vascular Surgery Department at MaxHealth Hospital offers specialized surgical care for conditions affecting the organs within the chest—excluding the heart. Our expert surgeons manage a wide range of complex thoracic cases, including lung diseases such as tuberculosis and cancer, airway disorders like […]",
+        "At MaxHealth Hospital, our Bariatric Surgery Department offers advanced surgical solutions to help individuals achieve lasting weight loss and improved health. Bariatric surgery—commonly known as weight loss surgery—involves procedures that alter the digestive system to support significant and sustainable weight reduction. It is especially beneficial […]",
+        "The Psychiatry & Mental Health Department at MaxHealth Hospital is staffed by experienced psychiatrists and psychologists dedicated to treating a wide range of mental and psychological health conditions. Recognized as a leading provider of psychiatric care, we deliver comprehensive clinical, therapeutic, and academic services to […]",
+        "MaxHealth Hospital’s Anesthesia & Pain Management Department plays a vital role in ensuring surgical safety and providing relief from chronic pain. Our experienced anesthesiologists offer general, regional, and local anesthesia tailored to each patient’s needs. Additionally, we provide specialized pain management services for post-surgical recovery, […]",
+        "At MaxHealth Hospital, our Dermatology & Cosmetology Department offers comprehensive care for skin, hair, and nail conditions through both medical and cosmetic treatments. Our team of trained specialists is dedicated to helping you achieve healthy, radiant skin and hair. Our services include: Acne Management Treatment […]",
+        "At MaxHealth Hospital, our Pulmonology Department provides expert care for a wide range of respiratory conditions, including: Asthma Chronic Obstructive Pulmonary Disease (COPD) Pneumonia Tuberculosis Sleep Apnea We offer advanced diagnostic and therapeutic services such as: Pulmonary Function Testing Bronchoscopy Comprehensive Breathing Therapies Our department […]",
+        "At MaxHealth Hospital, our Pediatrics & Neonatology Department offers compassionate, comprehensive care for newborns, infants, and children. From routine wellness checks to managing complex medical conditions, our dedicated team ensures your child receives the best possible care in a nurturing environment. Our services include: Newborn […]",
+        "The major objective of the Neurosciences and Stroke Centre at Maxhealth Hospital is to provide superior clinical treatment to patients with neurological illnesses such as Dementia, Stroke, Parkinson’s disease, Alzheimer’s, Epilepsy, Multiple Sclerosis (MS), and related conditions. With the rapid advancement of neuro-technology and ongoing […]"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "https://maxhealth.com.pk/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        },
+        {
+          "src": "https://maxhealth.com.pk/trial/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        }
+      ]
+    },
+    {
+      "url": "https://maxhealth.com.pk/contact-us",
+      "scraped_at": "2026-07-04T08:18:32.983136Z",
+      "page_title": "Contact Us – Max Health Hospital",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1",
+        "theme-color": "#1bbde4",
+        "msapplication-navbutton-color": "#1bbde4",
+        "mobile-web-app-capable": "yes",
+        "apple-mobile-web-app-status-bar-style": "black-translucent",
+        "robots": "max-image-preview:large",
+        "generator": "Powered by Slider Revolution 6.7.34 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "contacts": {
+        "emails": [
+          "rhsmarketing@riphah.edu.pk"
+        ],
+        "phones": [
+          "(051) 4486062",
+          "+92-51-8094760",
+          "3085554744"
+        ]
+      },
+      "social_profiles": {
+        "facebook": [
+          "https://www.facebook.com/MaxHealth.Islamabad"
+        ],
+        "youtube": [
+          "https://www.youtube.com/@maxhealthhospital3924"
+        ],
+        "instagram": [
+          "https://www.instagram.com/max_health_isb?fbclid=IwZXh0bgNhZW0CMTAAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHp6decSPR0d3bDYMVwKMle58cs4EJzgSKsv_-rSoWrTXAcCzjf1xyjbLhrc0_aem_r2CqKDBXi7xXzln9eaDWWA"
+        ]
+      },
+      "structured_data": [],
+      "navigation": [
+        {
+          "label": "Home",
+          "url": "https://maxhealth.com.pk/"
+        },
+        {
+          "label": "About Us",
+          "url": "https://maxhealth.com.pk/about-us/"
+        },
+        {
+          "label": "Our Services",
+          "url": "https://maxhealth.com.pk/ourservices/"
+        },
+        {
+          "label": "24/7 Emergency Services – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/24-7-emergency-services-maxhealth-hospital/"
+        },
+        {
+          "label": "Anesthesia & Pain Management",
+          "url": "https://maxhealth.com.pk/service-category/anesthesia-pain-management/"
+        },
+        {
+          "label": "Bariatric (Weight Loss) Surgery — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/bariatric-weight-loss-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "ENT (Ear, Nose and Throat)",
+          "url": "https://maxhealth.com.pk/service-category/ent-ear-nose-and-throat/"
+        },
+        {
+          "label": "Cardiothoracic & Vascular Surgery— MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiothoracic-vascular-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Psychiatry & Mental Health — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/psychiatry-mental-health-maxhealth-hospital/"
+        },
+        {
+          "label": "Pulmonology & Chest Medicine",
+          "url": "https://maxhealth.com.pk/service-category/pulmonology-chest-medicine/"
+        },
+        {
+          "label": "Gastroenterology",
+          "url": "https://maxhealth.com.pk/service-category/gastroenterology/"
+        },
+        {
+          "label": "Pediatrics & Neonatology",
+          "url": "https://maxhealth.com.pk/service-category/pediatrics-neonatology/"
+        },
+        {
+          "label": "Dermatology & Cosmetology",
+          "url": "https://maxhealth.com.pk/service-category/dermatology-cosmetology/"
+        },
+        {
+          "label": "Neurology – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurology-maxhealth-hospital/"
+        },
+        {
+          "label": "Cardiology Department",
+          "url": "https://maxhealth.com.pk/service-category/cardiology-department/"
+        },
+        {
+          "label": "Breast Surgery",
+          "url": "https://maxhealth.com.pk/service-category/breast-surgery/"
+        },
+        {
+          "label": "Ophthalmology",
+          "url": "https://maxhealth.com.pk/service-category/ophthalmology/"
+        },
+        {
+          "label": "General Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-surgery/"
+        },
+        {
+          "label": "Nephrology",
+          "url": "https://maxhealth.com.pk/service-category/nephrology/"
+        },
+        {
+          "label": "Eyes",
+          "url": "https://maxhealth.com.pk/service-category/eyes/"
+        },
+        {
+          "label": "Physiotherapy & Rehabilitation",
+          "url": "https://maxhealth.com.pk/service-category/physiotherapy-rehabilitation/"
+        },
+        {
+          "label": "Peads Neonatal",
+          "url": "https://maxhealth.com.pk/service-category/peads-neonatal/"
+        },
+        {
+          "label": "Plastic, Burn & Reconstructive Surgery",
+          "url": "https://maxhealth.com.pk/service-category/plastic-burn-reconstructive-surgery/"
+        },
+        {
+          "label": "Peads Surgery",
+          "url": "https://maxhealth.com.pk/service-category/peads-surgery/"
+        },
+        {
+          "label": "Dental Department",
+          "url": "https://maxhealth.com.pk/service-category/dental-department/"
+        },
+        {
+          "label": "Orthopedic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/orthopedic-surgery/"
+        },
+        {
+          "label": "Neurosurgery – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurosurgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Gynecology & Obstetrics Department",
+          "url": "https://maxhealth.com.pk/service-category/gynecology-obstetrics-department/"
+        },
+        {
+          "label": "General & Laparoscopic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-laparoscopic-surgery/"
+        },
+        {
+          "label": "Internal Medicine",
+          "url": "https://maxhealth.com.pk/service-category/internal-medicine/"
+        },
+        {
+          "label": "Cardiac Surgery Department — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiac-surgery-department-maxhealth-hospital/"
+        },
+        {
+          "label": "Urology",
+          "url": "https://maxhealth.com.pk/service-category/urology/"
+        },
+        {
+          "label": "Thoracic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/thoracic-surgery/"
+        },
+        {
+          "label": "Our Doctors",
+          "url": "https://maxhealth.com.pk/our-doctors/"
+        },
+        {
+          "label": "Gallery",
+          "url": "https://maxhealth.com.pk/gallery/"
+        },
+        {
+          "label": "Contact Us",
+          "url": "https://maxhealth.com.pk/contact-us/"
+        }
+      ],
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Contact Us"
+        },
+        {
+          "level": "h4",
+          "text": "Get in touch"
+        },
+        {
+          "level": "h2",
+          "text": "Call now or write a message"
+        },
+        {
+          "level": "h2",
+          "text": "Our Location​​"
+        },
+        {
+          "level": "h2",
+          "text": "Phone Number"
+        },
+        {
+          "level": "h2",
+          "text": "Email Address"
+        },
+        {
+          "level": "h4",
+          "text": "Get in touch"
+        },
+        {
+          "level": "h2",
+          "text": "Get in touch with us"
+        },
+        {
+          "level": "h2",
+          "text": "Schedule hours"
+        },
+        {
+          "level": "h2",
+          "text": "+92-51-8094760-66"
+        },
+        {
+          "level": "h2",
+          "text": "Frequently Asked Questions"
+        },
+        {
+          "level": "h3",
+          "text": "Contact Us"
+        },
+        {
+          "level": "h2",
+          "text": "Departmants"
+        },
+        {
+          "level": "h2",
+          "text": "Sign Up To Get Latest Updates"
+        },
+        {
+          "level": "h2",
+          "text": "Follow on socials"
+        },
+        {
+          "level": "h2",
+          "text": "Opening Hours OPD"
+        },
+        {
+          "level": "h2",
+          "text": "24/7 Emergency"
+        }
+      ],
+      "content_blocks": [
+        "You can request an appointment online through our website or call our reception desk directly. Please note that online requests are reviewed by our team, and your appointment will be confirmed via phone call or message.",
+        "We provide a full range of dental services, including general dentistry, orthodontics (braces and aligners), dental implants, cosmetic dentistry, pediatric dentistry, root canal treatments, oral surgery, and preventive care. Please check our services section for details.",
+        "Yes, our hospital is on the panel of several leading insurance companies in Pakistan. Please contact our reception for the updated list of insurance partners and coverage details."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "https://maxhealth.com.pk/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        },
+        {
+          "src": "https://maxhealth.com.pk/trial/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        }
+      ]
+    },
+    {
+      "url": "https://maxhealth.com.pk/trial/contact-us",
+      "scraped_at": "2026-07-04T08:18:38.521921Z",
+      "page_title": "Contact Us – Max Health Hospital",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1",
+        "theme-color": "#1bbde4",
+        "msapplication-navbutton-color": "#1bbde4",
+        "mobile-web-app-capable": "yes",
+        "apple-mobile-web-app-status-bar-style": "black-translucent",
+        "robots": "max-image-preview:large",
+        "generator": "Powered by Slider Revolution 6.7.34 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "contacts": {
+        "emails": [
+          "rhsmarketing@riphah.edu.pk"
+        ],
+        "phones": [
+          "(051) 4486062",
+          "+92-51-8094760",
+          "3085554744"
+        ]
+      },
+      "social_profiles": {
+        "facebook": [
+          "https://www.facebook.com/MaxHealth.Islamabad"
+        ],
+        "youtube": [
+          "https://www.youtube.com/@maxhealthhospital3924"
+        ],
+        "instagram": [
+          "https://www.instagram.com/max_health_isb?fbclid=IwZXh0bgNhZW0CMTAAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHp6decSPR0d3bDYMVwKMle58cs4EJzgSKsv_-rSoWrTXAcCzjf1xyjbLhrc0_aem_r2CqKDBXi7xXzln9eaDWWA"
+        ]
+      },
+      "structured_data": [],
+      "navigation": [
+        {
+          "label": "Home",
+          "url": "https://maxhealth.com.pk/"
+        },
+        {
+          "label": "About Us",
+          "url": "https://maxhealth.com.pk/about-us/"
+        },
+        {
+          "label": "Our Services",
+          "url": "https://maxhealth.com.pk/ourservices/"
+        },
+        {
+          "label": "24/7 Emergency Services – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/24-7-emergency-services-maxhealth-hospital/"
+        },
+        {
+          "label": "Anesthesia & Pain Management",
+          "url": "https://maxhealth.com.pk/service-category/anesthesia-pain-management/"
+        },
+        {
+          "label": "Bariatric (Weight Loss) Surgery — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/bariatric-weight-loss-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "ENT (Ear, Nose and Throat)",
+          "url": "https://maxhealth.com.pk/service-category/ent-ear-nose-and-throat/"
+        },
+        {
+          "label": "Cardiothoracic & Vascular Surgery— MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiothoracic-vascular-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Psychiatry & Mental Health — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/psychiatry-mental-health-maxhealth-hospital/"
+        },
+        {
+          "label": "Pulmonology & Chest Medicine",
+          "url": "https://maxhealth.com.pk/service-category/pulmonology-chest-medicine/"
+        },
+        {
+          "label": "Gastroenterology",
+          "url": "https://maxhealth.com.pk/service-category/gastroenterology/"
+        },
+        {
+          "label": "Pediatrics & Neonatology",
+          "url": "https://maxhealth.com.pk/service-category/pediatrics-neonatology/"
+        },
+        {
+          "label": "Dermatology & Cosmetology",
+          "url": "https://maxhealth.com.pk/service-category/dermatology-cosmetology/"
+        },
+        {
+          "label": "Neurology – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurology-maxhealth-hospital/"
+        },
+        {
+          "label": "Cardiology Department",
+          "url": "https://maxhealth.com.pk/service-category/cardiology-department/"
+        },
+        {
+          "label": "Breast Surgery",
+          "url": "https://maxhealth.com.pk/service-category/breast-surgery/"
+        },
+        {
+          "label": "Ophthalmology",
+          "url": "https://maxhealth.com.pk/service-category/ophthalmology/"
+        },
+        {
+          "label": "General Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-surgery/"
+        },
+        {
+          "label": "Nephrology",
+          "url": "https://maxhealth.com.pk/service-category/nephrology/"
+        },
+        {
+          "label": "Eyes",
+          "url": "https://maxhealth.com.pk/service-category/eyes/"
+        },
+        {
+          "label": "Physiotherapy & Rehabilitation",
+          "url": "https://maxhealth.com.pk/service-category/physiotherapy-rehabilitation/"
+        },
+        {
+          "label": "Peads Neonatal",
+          "url": "https://maxhealth.com.pk/service-category/peads-neonatal/"
+        },
+        {
+          "label": "Plastic, Burn & Reconstructive Surgery",
+          "url": "https://maxhealth.com.pk/service-category/plastic-burn-reconstructive-surgery/"
+        },
+        {
+          "label": "Peads Surgery",
+          "url": "https://maxhealth.com.pk/service-category/peads-surgery/"
+        },
+        {
+          "label": "Dental Department",
+          "url": "https://maxhealth.com.pk/service-category/dental-department/"
+        },
+        {
+          "label": "Orthopedic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/orthopedic-surgery/"
+        },
+        {
+          "label": "Neurosurgery – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurosurgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Gynecology & Obstetrics Department",
+          "url": "https://maxhealth.com.pk/service-category/gynecology-obstetrics-department/"
+        },
+        {
+          "label": "General & Laparoscopic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-laparoscopic-surgery/"
+        },
+        {
+          "label": "Internal Medicine",
+          "url": "https://maxhealth.com.pk/service-category/internal-medicine/"
+        },
+        {
+          "label": "Cardiac Surgery Department — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiac-surgery-department-maxhealth-hospital/"
+        },
+        {
+          "label": "Urology",
+          "url": "https://maxhealth.com.pk/service-category/urology/"
+        },
+        {
+          "label": "Thoracic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/thoracic-surgery/"
+        },
+        {
+          "label": "Our Doctors",
+          "url": "https://maxhealth.com.pk/our-doctors/"
+        },
+        {
+          "label": "Gallery",
+          "url": "https://maxhealth.com.pk/gallery/"
+        },
+        {
+          "label": "Contact Us",
+          "url": "https://maxhealth.com.pk/contact-us/"
+        }
+      ],
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Contact Us"
+        },
+        {
+          "level": "h4",
+          "text": "Get in touch"
+        },
+        {
+          "level": "h2",
+          "text": "Call now or write a message"
+        },
+        {
+          "level": "h2",
+          "text": "Our Location​​"
+        },
+        {
+          "level": "h2",
+          "text": "Phone Number"
+        },
+        {
+          "level": "h2",
+          "text": "Email Address"
+        },
+        {
+          "level": "h4",
+          "text": "Get in touch"
+        },
+        {
+          "level": "h2",
+          "text": "Get in touch with us"
+        },
+        {
+          "level": "h2",
+          "text": "Schedule hours"
+        },
+        {
+          "level": "h2",
+          "text": "+92-51-8094760-66"
+        },
+        {
+          "level": "h2",
+          "text": "Frequently Asked Questions"
+        },
+        {
+          "level": "h3",
+          "text": "Contact Us"
+        },
+        {
+          "level": "h2",
+          "text": "Departmants"
+        },
+        {
+          "level": "h2",
+          "text": "Sign Up To Get Latest Updates"
+        },
+        {
+          "level": "h2",
+          "text": "Follow on socials"
+        },
+        {
+          "level": "h2",
+          "text": "Opening Hours OPD"
+        },
+        {
+          "level": "h2",
+          "text": "24/7 Emergency"
+        }
+      ],
+      "content_blocks": [
+        "You can request an appointment online through our website or call our reception desk directly. Please note that online requests are reviewed by our team, and your appointment will be confirmed via phone call or message.",
+        "We provide a full range of dental services, including general dentistry, orthodontics (braces and aligners), dental implants, cosmetic dentistry, pediatric dentistry, root canal treatments, oral surgery, and preventive care. Please check our services section for details.",
+        "Yes, our hospital is on the panel of several leading insurance companies in Pakistan. Please contact our reception for the updated list of insurance partners and coverage details."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "https://maxhealth.com.pk/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        },
+        {
+          "src": "https://maxhealth.com.pk/trial/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        }
+      ]
+    },
+    {
+      "url": "https://maxhealth.com.pk/service/24-7-emergency-services-maxhealth-hospital",
+      "scraped_at": "2026-07-04T08:18:43.101870Z",
+      "page_title": "24/7 Emergency Services – Maxhealth Hospital – Max Health Hospital",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1",
+        "theme-color": "#1bbde4",
+        "msapplication-navbutton-color": "#1bbde4",
+        "mobile-web-app-capable": "yes",
+        "apple-mobile-web-app-status-bar-style": "black-translucent",
+        "robots": "max-image-preview:large",
+        "generator": "Powered by Slider Revolution 6.7.34 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "contacts": {
+        "emails": [
+          "info@maxhealth.com.pk",
+          "rhsmarketing@riphah.edu.pk"
+        ],
+        "phones": [
+          "+92-51-8094760",
+          "+92-51-8094767"
+        ]
+      },
+      "social_profiles": {
+        "facebook": [
+          "https://www.facebook.com/MaxHealth.Islamabad"
+        ],
+        "youtube": [
+          "https://www.youtube.com/@maxhealthhospital3924"
+        ],
+        "instagram": [
+          "https://www.instagram.com/max_health_isb?fbclid=IwZXh0bgNhZW0CMTAAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHp6decSPR0d3bDYMVwKMle58cs4EJzgSKsv_-rSoWrTXAcCzjf1xyjbLhrc0_aem_r2CqKDBXi7xXzln9eaDWWA"
+        ]
+      },
+      "structured_data": [],
+      "navigation": [
+        {
+          "label": "Home",
+          "url": "https://maxhealth.com.pk/"
+        },
+        {
+          "label": "About Us",
+          "url": "https://maxhealth.com.pk/about-us/"
+        },
+        {
+          "label": "Our Services",
+          "url": "https://maxhealth.com.pk/ourservices/"
+        },
+        {
+          "label": "24/7 Emergency Services – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/24-7-emergency-services-maxhealth-hospital/"
+        },
+        {
+          "label": "Anesthesia & Pain Management",
+          "url": "https://maxhealth.com.pk/service-category/anesthesia-pain-management/"
+        },
+        {
+          "label": "Bariatric (Weight Loss) Surgery — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/bariatric-weight-loss-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "ENT (Ear, Nose and Throat)",
+          "url": "https://maxhealth.com.pk/service-category/ent-ear-nose-and-throat/"
+        },
+        {
+          "label": "Cardiothoracic & Vascular Surgery— MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiothoracic-vascular-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Psychiatry & Mental Health — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/psychiatry-mental-health-maxhealth-hospital/"
+        },
+        {
+          "label": "Pulmonology & Chest Medicine",
+          "url": "https://maxhealth.com.pk/service-category/pulmonology-chest-medicine/"
+        },
+        {
+          "label": "Gastroenterology",
+          "url": "https://maxhealth.com.pk/service-category/gastroenterology/"
+        },
+        {
+          "label": "Pediatrics & Neonatology",
+          "url": "https://maxhealth.com.pk/service-category/pediatrics-neonatology/"
+        },
+        {
+          "label": "Dermatology & Cosmetology",
+          "url": "https://maxhealth.com.pk/service-category/dermatology-cosmetology/"
+        },
+        {
+          "label": "Neurology – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurology-maxhealth-hospital/"
+        },
+        {
+          "label": "Cardiology Department",
+          "url": "https://maxhealth.com.pk/service-category/cardiology-department/"
+        },
+        {
+          "label": "Breast Surgery",
+          "url": "https://maxhealth.com.pk/service-category/breast-surgery/"
+        },
+        {
+          "label": "Ophthalmology",
+          "url": "https://maxhealth.com.pk/service-category/ophthalmology/"
+        },
+        {
+          "label": "General Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-surgery/"
+        },
+        {
+          "label": "Nephrology",
+          "url": "https://maxhealth.com.pk/service-category/nephrology/"
+        },
+        {
+          "label": "Eyes",
+          "url": "https://maxhealth.com.pk/service-category/eyes/"
+        },
+        {
+          "label": "Physiotherapy & Rehabilitation",
+          "url": "https://maxhealth.com.pk/service-category/physiotherapy-rehabilitation/"
+        },
+        {
+          "label": "Peads Neonatal",
+          "url": "https://maxhealth.com.pk/service-category/peads-neonatal/"
+        },
+        {
+          "label": "Plastic, Burn & Reconstructive Surgery",
+          "url": "https://maxhealth.com.pk/service-category/plastic-burn-reconstructive-surgery/"
+        },
+        {
+          "label": "Peads Surgery",
+          "url": "https://maxhealth.com.pk/service-category/peads-surgery/"
+        },
+        {
+          "label": "Dental Department",
+          "url": "https://maxhealth.com.pk/service-category/dental-department/"
+        },
+        {
+          "label": "Orthopedic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/orthopedic-surgery/"
+        },
+        {
+          "label": "Neurosurgery – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurosurgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Gynecology & Obstetrics Department",
+          "url": "https://maxhealth.com.pk/service-category/gynecology-obstetrics-department/"
+        },
+        {
+          "label": "General & Laparoscopic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-laparoscopic-surgery/"
+        },
+        {
+          "label": "Internal Medicine",
+          "url": "https://maxhealth.com.pk/service-category/internal-medicine/"
+        },
+        {
+          "label": "Cardiac Surgery Department — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiac-surgery-department-maxhealth-hospital/"
+        },
+        {
+          "label": "Urology",
+          "url": "https://maxhealth.com.pk/service-category/urology/"
+        },
+        {
+          "label": "Thoracic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/thoracic-surgery/"
+        },
+        {
+          "label": "Our Doctors",
+          "url": "https://maxhealth.com.pk/our-doctors/"
+        },
+        {
+          "label": "Gallery",
+          "url": "https://maxhealth.com.pk/gallery/"
+        },
+        {
+          "label": "Contact Us",
+          "url": "https://maxhealth.com.pk/contact-us/"
+        }
+      ],
+      "headings": [
+        {
+          "level": "h1",
+          "text": "24/7 Emergency Services – Maxhealth Hospital"
+        },
+        {
+          "level": "h2",
+          "text": "Department Of Paediatrics"
+        },
+        {
+          "level": "h2",
+          "text": "24/7 Emergency Services – Maxhealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Key Features of Our Emergency Department:"
+        },
+        {
+          "level": "h2",
+          "text": "Team Member"
+        },
+        {
+          "level": "h2",
+          "text": "Posts"
+        },
+        {
+          "level": "h2",
+          "text": "+92-51-8094767"
+        },
+        {
+          "level": "h2",
+          "text": "Departmants"
+        },
+        {
+          "level": "h2",
+          "text": "Sign Up To Get Latest Updates"
+        },
+        {
+          "level": "h2",
+          "text": "Follow on socials"
+        },
+        {
+          "level": "h2",
+          "text": "Opening Hours OPD"
+        },
+        {
+          "level": "h2",
+          "text": "24/7 Emergency"
+        }
+      ],
+      "content_blocks": [
+        "Medical emergencies can happen at any time—day or night. The  Emergency Department at Maxhealth Hospital  is committed to delivering  timely, compassionate, and expert medical care when you need it most .",
+        "Our top priority is to ensure patients receive immediate and effective treatment. The emergency team—consisting of  board-certified doctors, experienced nurses, and trained paramedical staff—is available 24/7  to handle all types of medical emergencies.",
+        "In addition to general emergency care, we also provide  specialized emergency services  for  obstetric  and  psychiatric emergencies , ensuring comprehensive support across all medical domains.",
+        "24/7 Availability of Emergency Physicians and Consultants",
+        "ESI (Emergency Severity Index) Triage System  to prioritize care based on clinical urgency",
+        "State-of-the-Art Equipment  including: Heart Monitors Defibrillators Ventilators",
+        "Specialized Areas  for trauma care, resuscitation, and observation",
+        "Training Facility  for doctors pursuing  FCPS Emergency Medicine Certification",
+        "Recognized as one of the leading emergency care providers in  Islamabad’s G-8 Markaz , Maxhealth Hospital takes great pride in offering  rapid response, expert diagnosis, and high-quality emergency interventions —all in a modern, patient-focused environment."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "https://maxhealth.com.pk/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        },
+        {
+          "src": "https://maxhealth.com.pk/trial/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        }
+      ]
+    },
+    {
+      "url": "https://maxhealth.com.pk/service-category/24-7-emergency-services-maxhealth-hospital/page/2",
+      "scraped_at": "2026-07-04T08:18:50.164757Z",
+      "page_title": "24/7 Emergency Services – Maxhealth Hospital – Page 2 – Max Health Hospital",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1",
+        "theme-color": "#1bbde4",
+        "msapplication-navbutton-color": "#1bbde4",
+        "mobile-web-app-capable": "yes",
+        "apple-mobile-web-app-status-bar-style": "black-translucent",
+        "robots": "max-image-preview:large",
+        "generator": "Powered by Slider Revolution 6.7.34 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "contacts": {
+        "emails": [
+          "rhsmarketing@riphah.edu.pk"
+        ],
+        "phones": [
+          "+92-51-8094760"
+        ]
+      },
+      "social_profiles": {
+        "facebook": [
+          "https://www.facebook.com/MaxHealth.Islamabad"
+        ],
+        "youtube": [
+          "https://www.youtube.com/@maxhealthhospital3924"
+        ],
+        "instagram": [
+          "https://www.instagram.com/max_health_isb?fbclid=IwZXh0bgNhZW0CMTAAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHp6decSPR0d3bDYMVwKMle58cs4EJzgSKsv_-rSoWrTXAcCzjf1xyjbLhrc0_aem_r2CqKDBXi7xXzln9eaDWWA"
+        ]
+      },
+      "structured_data": [],
+      "navigation": [
+        {
+          "label": "Home",
+          "url": "https://maxhealth.com.pk/"
+        },
+        {
+          "label": "About Us",
+          "url": "https://maxhealth.com.pk/about-us/"
+        },
+        {
+          "label": "Our Services",
+          "url": "https://maxhealth.com.pk/ourservices/"
+        },
+        {
+          "label": "24/7 Emergency Services – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/24-7-emergency-services-maxhealth-hospital/"
+        },
+        {
+          "label": "Anesthesia & Pain Management",
+          "url": "https://maxhealth.com.pk/service-category/anesthesia-pain-management/"
+        },
+        {
+          "label": "Bariatric (Weight Loss) Surgery — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/bariatric-weight-loss-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "ENT (Ear, Nose and Throat)",
+          "url": "https://maxhealth.com.pk/service-category/ent-ear-nose-and-throat/"
+        },
+        {
+          "label": "Cardiothoracic & Vascular Surgery— MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiothoracic-vascular-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Psychiatry & Mental Health — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/psychiatry-mental-health-maxhealth-hospital/"
+        },
+        {
+          "label": "Pulmonology & Chest Medicine",
+          "url": "https://maxhealth.com.pk/service-category/pulmonology-chest-medicine/"
+        },
+        {
+          "label": "Gastroenterology",
+          "url": "https://maxhealth.com.pk/service-category/gastroenterology/"
+        },
+        {
+          "label": "Pediatrics & Neonatology",
+          "url": "https://maxhealth.com.pk/service-category/pediatrics-neonatology/"
+        },
+        {
+          "label": "Dermatology & Cosmetology",
+          "url": "https://maxhealth.com.pk/service-category/dermatology-cosmetology/"
+        },
+        {
+          "label": "Neurology – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurology-maxhealth-hospital/"
+        },
+        {
+          "label": "Cardiology Department",
+          "url": "https://maxhealth.com.pk/service-category/cardiology-department/"
+        },
+        {
+          "label": "Breast Surgery",
+          "url": "https://maxhealth.com.pk/service-category/breast-surgery/"
+        },
+        {
+          "label": "Ophthalmology",
+          "url": "https://maxhealth.com.pk/service-category/ophthalmology/"
+        },
+        {
+          "label": "General Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-surgery/"
+        },
+        {
+          "label": "Nephrology",
+          "url": "https://maxhealth.com.pk/service-category/nephrology/"
+        },
+        {
+          "label": "Eyes",
+          "url": "https://maxhealth.com.pk/service-category/eyes/"
+        },
+        {
+          "label": "Physiotherapy & Rehabilitation",
+          "url": "https://maxhealth.com.pk/service-category/physiotherapy-rehabilitation/"
+        },
+        {
+          "label": "Peads Neonatal",
+          "url": "https://maxhealth.com.pk/service-category/peads-neonatal/"
+        },
+        {
+          "label": "Plastic, Burn & Reconstructive Surgery",
+          "url": "https://maxhealth.com.pk/service-category/plastic-burn-reconstructive-surgery/"
+        },
+        {
+          "label": "Peads Surgery",
+          "url": "https://maxhealth.com.pk/service-category/peads-surgery/"
+        },
+        {
+          "label": "Dental Department",
+          "url": "https://maxhealth.com.pk/service-category/dental-department/"
+        },
+        {
+          "label": "Orthopedic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/orthopedic-surgery/"
+        },
+        {
+          "label": "Neurosurgery – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurosurgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Gynecology & Obstetrics Department",
+          "url": "https://maxhealth.com.pk/service-category/gynecology-obstetrics-department/"
+        },
+        {
+          "label": "General & Laparoscopic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-laparoscopic-surgery/"
+        },
+        {
+          "label": "Internal Medicine",
+          "url": "https://maxhealth.com.pk/service-category/internal-medicine/"
+        },
+        {
+          "label": "Cardiac Surgery Department — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiac-surgery-department-maxhealth-hospital/"
+        },
+        {
+          "label": "Urology",
+          "url": "https://maxhealth.com.pk/service-category/urology/"
+        },
+        {
+          "label": "Thoracic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/thoracic-surgery/"
+        },
+        {
+          "label": "Our Doctors",
+          "url": "https://maxhealth.com.pk/our-doctors/"
+        },
+        {
+          "label": "Gallery",
+          "url": "https://maxhealth.com.pk/gallery/"
+        },
+        {
+          "label": "Contact Us",
+          "url": "https://maxhealth.com.pk/contact-us/"
+        }
+      ],
+      "headings": [
+        {
+          "level": "h1",
+          "text": "24/7 Emergency Services – Maxhealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Cardiology Department"
+        },
+        {
+          "level": "h3",
+          "text": "Breast Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "Ophthalmology"
+        },
+        {
+          "level": "h3",
+          "text": "General Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "ENT (Ear, Nose and Throat)"
+        },
+        {
+          "level": "h3",
+          "text": "Eyes"
+        },
+        {
+          "level": "h3",
+          "text": "Physiotherapy & Rehabilitation"
+        },
+        {
+          "level": "h3",
+          "text": "Peads Neonatal"
+        },
+        {
+          "level": "h3",
+          "text": "Peads Surgery"
+        },
+        {
+          "level": "h2",
+          "text": "Departmants"
+        },
+        {
+          "level": "h2",
+          "text": "Sign Up To Get Latest Updates"
+        },
+        {
+          "level": "h2",
+          "text": "Follow on socials"
+        },
+        {
+          "level": "h2",
+          "text": "Opening Hours OPD"
+        },
+        {
+          "level": "h2",
+          "text": "24/7 Emergency"
+        }
+      ],
+      "content_blocks": [
+        "At MaxHealth Hospital, our Cardiology Department is dedicated to delivering exceptional heart care through cutting-edge diagnostics and evidence-based treatment strategies. We specialize in the management of: Heart Failure Coronary Artery Disease Arrhythmias Hypertension Our department is equipped with state-of-the-art diagnostic tools, including: ECG (Electrocardiography) Echocardiography […]",
+        "Our ENT Unit offers both routine and emergency consultations for conditions related to ear, nose, throat, head and neck conditions.Our surgical services include:•    Otology•    Rhinology•    Laryngology•    Head and neck surgery",
+        "The Ophthalmology Unit at Max-Health Hospital is led by highly trained consultants who specialize in conditions such as cornea, cataracts, oculoplastic and glaucoma. We provide comprehensive eye care diagnostic and treatment services for both routine and complex eye conditions, supported by our state-of-the-art equipment.This allows us […]",
+        "The Physiotherapy Department at MaxHealth Hospital is dedicated to helping patients enhance their mobility, strength, and overall quality of life. Our highly trained team of physiotherapists specializes in neurological, orthopedic, and cardiac rehabilitation, offering tailored therapy plans for both inpatients and outpatients. We aim to […]",
+        "Emergency cases are channeled through the Pediatric Casualty department where the neonatologist is informed accordingly for further consultation and management. Inpatients are managed in the Neonatal High Dependency Unit or Children’s Ward which has provisions for private and general ward beds. Care may be escalated to […]",
+        "Max-Health Hospital pediatric surgeons specialize specifically in caring for the surgical needs of children of all ages. Treating infants and children requires skills, and our medical specialists are specifically trained to involve your family in your child’s treatment and ensure that treatment is comprehensive. We gave […]"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "https://maxhealth.com.pk/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        },
+        {
+          "src": "https://maxhealth.com.pk/trial/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        }
+      ]
+    },
+    {
+      "url": "https://maxhealth.com.pk/service-category/24-7-emergency-services-maxhealth-hospital/page/3",
+      "scraped_at": "2026-07-04T08:18:55.003770Z",
+      "page_title": "24/7 Emergency Services – Maxhealth Hospital – Page 3 – Max Health Hospital",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1",
+        "theme-color": "#1bbde4",
+        "msapplication-navbutton-color": "#1bbde4",
+        "mobile-web-app-capable": "yes",
+        "apple-mobile-web-app-status-bar-style": "black-translucent",
+        "robots": "max-image-preview:large",
+        "generator": "Powered by Slider Revolution 6.7.34 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "contacts": {
+        "emails": [
+          "rhsmarketing@riphah.edu.pk"
+        ],
+        "phones": [
+          "+92-51-8094760"
+        ]
+      },
+      "social_profiles": {
+        "facebook": [
+          "https://www.facebook.com/MaxHealth.Islamabad"
+        ],
+        "youtube": [
+          "https://www.youtube.com/@maxhealthhospital3924"
+        ],
+        "instagram": [
+          "https://www.instagram.com/max_health_isb?fbclid=IwZXh0bgNhZW0CMTAAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHp6decSPR0d3bDYMVwKMle58cs4EJzgSKsv_-rSoWrTXAcCzjf1xyjbLhrc0_aem_r2CqKDBXi7xXzln9eaDWWA"
+        ]
+      },
+      "structured_data": [],
+      "navigation": [
+        {
+          "label": "Home",
+          "url": "https://maxhealth.com.pk/"
+        },
+        {
+          "label": "About Us",
+          "url": "https://maxhealth.com.pk/about-us/"
+        },
+        {
+          "label": "Our Services",
+          "url": "https://maxhealth.com.pk/ourservices/"
+        },
+        {
+          "label": "24/7 Emergency Services – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/24-7-emergency-services-maxhealth-hospital/"
+        },
+        {
+          "label": "Anesthesia & Pain Management",
+          "url": "https://maxhealth.com.pk/service-category/anesthesia-pain-management/"
+        },
+        {
+          "label": "Bariatric (Weight Loss) Surgery — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/bariatric-weight-loss-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "ENT (Ear, Nose and Throat)",
+          "url": "https://maxhealth.com.pk/service-category/ent-ear-nose-and-throat/"
+        },
+        {
+          "label": "Cardiothoracic & Vascular Surgery— MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiothoracic-vascular-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Psychiatry & Mental Health — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/psychiatry-mental-health-maxhealth-hospital/"
+        },
+        {
+          "label": "Pulmonology & Chest Medicine",
+          "url": "https://maxhealth.com.pk/service-category/pulmonology-chest-medicine/"
+        },
+        {
+          "label": "Gastroenterology",
+          "url": "https://maxhealth.com.pk/service-category/gastroenterology/"
+        },
+        {
+          "label": "Pediatrics & Neonatology",
+          "url": "https://maxhealth.com.pk/service-category/pediatrics-neonatology/"
+        },
+        {
+          "label": "Dermatology & Cosmetology",
+          "url": "https://maxhealth.com.pk/service-category/dermatology-cosmetology/"
+        },
+        {
+          "label": "Neurology – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurology-maxhealth-hospital/"
+        },
+        {
+          "label": "Cardiology Department",
+          "url": "https://maxhealth.com.pk/service-category/cardiology-department/"
+        },
+        {
+          "label": "Breast Surgery",
+          "url": "https://maxhealth.com.pk/service-category/breast-surgery/"
+        },
+        {
+          "label": "Ophthalmology",
+          "url": "https://maxhealth.com.pk/service-category/ophthalmology/"
+        },
+        {
+          "label": "General Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-surgery/"
+        },
+        {
+          "label": "Nephrology",
+          "url": "https://maxhealth.com.pk/service-category/nephrology/"
+        },
+        {
+          "label": "Eyes",
+          "url": "https://maxhealth.com.pk/service-category/eyes/"
+        },
+        {
+          "label": "Physiotherapy & Rehabilitation",
+          "url": "https://maxhealth.com.pk/service-category/physiotherapy-rehabilitation/"
+        },
+        {
+          "label": "Peads Neonatal",
+          "url": "https://maxhealth.com.pk/service-category/peads-neonatal/"
+        },
+        {
+          "label": "Plastic, Burn & Reconstructive Surgery",
+          "url": "https://maxhealth.com.pk/service-category/plastic-burn-reconstructive-surgery/"
+        },
+        {
+          "label": "Peads Surgery",
+          "url": "https://maxhealth.com.pk/service-category/peads-surgery/"
+        },
+        {
+          "label": "Dental Department",
+          "url": "https://maxhealth.com.pk/service-category/dental-department/"
+        },
+        {
+          "label": "Orthopedic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/orthopedic-surgery/"
+        },
+        {
+          "label": "Neurosurgery – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurosurgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Gynecology & Obstetrics Department",
+          "url": "https://maxhealth.com.pk/service-category/gynecology-obstetrics-department/"
+        },
+        {
+          "label": "General & Laparoscopic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-laparoscopic-surgery/"
+        },
+        {
+          "label": "Internal Medicine",
+          "url": "https://maxhealth.com.pk/service-category/internal-medicine/"
+        },
+        {
+          "label": "Cardiac Surgery Department — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiac-surgery-department-maxhealth-hospital/"
+        },
+        {
+          "label": "Urology",
+          "url": "https://maxhealth.com.pk/service-category/urology/"
+        },
+        {
+          "label": "Thoracic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/thoracic-surgery/"
+        },
+        {
+          "label": "Our Doctors",
+          "url": "https://maxhealth.com.pk/our-doctors/"
+        },
+        {
+          "label": "Gallery",
+          "url": "https://maxhealth.com.pk/gallery/"
+        },
+        {
+          "label": "Contact Us",
+          "url": "https://maxhealth.com.pk/contact-us/"
+        }
+      ],
+      "headings": [
+        {
+          "level": "h1",
+          "text": "24/7 Emergency Services – Maxhealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Plastic, Burn & Reconstructive Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "Dental Department"
+        },
+        {
+          "level": "h3",
+          "text": "Orthopedic Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "Gynecology & Obstetrics Department"
+        },
+        {
+          "level": "h3",
+          "text": "Urology"
+        },
+        {
+          "level": "h3",
+          "text": "Cardiac Surgery Department — MaxHealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Nephrology"
+        },
+        {
+          "level": "h3",
+          "text": "Thoracic Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "Neurosurgery – Maxhealth Hospital"
+        },
+        {
+          "level": "h2",
+          "text": "Departmants"
+        },
+        {
+          "level": "h2",
+          "text": "Sign Up To Get Latest Updates"
+        },
+        {
+          "level": "h2",
+          "text": "Follow on socials"
+        },
+        {
+          "level": "h2",
+          "text": "Opening Hours OPD"
+        },
+        {
+          "level": "h2",
+          "text": "24/7 Emergency"
+        }
+      ],
+      "content_blocks": [
+        "The Plastic, Burn & Reconstructive Surgery Department at MaxHealth Hospital offers a comprehensive range of services—from life-saving reconstructive procedures to advanced cosmetic enhancements. Our state-of-the-art Burn Center is fully equipped to manage all degrees of burn injuries, with expert surgeons available 24/7 to respond to […]",
+        "The Dental Department at MaxHealth Hospital features a fully operational Dental Surgery Unit equipped with state-of-the-art dental technology. Our department is managed by highly skilled and qualified dentists who have received specialized training in their respective fields. We strictly adhere to infection control and dental […]",
+        "At MaxHealth Hospital, our Orthopedic Surgery Department delivers expert care for a wide range of bone, joint, and musculoskeletal conditions. From trauma and fracture management to spine surgeries and joint replacements, we combine advanced medical techniques with a patient-centered approach to ensure faster recovery and […]",
+        "The Gynecology & Obstetrics Department at MaxHealth Hospital is a state-of-the-art facility in Islamabad. Our aim is to provide personalized care to every patient and make the journey of pregnancy and childbirth memorable for mothers. We provide client-focused maternity and neonatal care 24/7. A dedicated […]",
+        "Max-Health Hospital urologists specialize in surgeries supporting the treatment and management of disorders that affect the kidneys, urinary tract and male reproductive organs. In addition to booked surgical sessions, the Urology Unit also offers a weekly outpatient clinic. We gave services under care of Prof. Dr. Musharaf […]",
+        "At MaxHealth Hospital, our Cardiac Surgery Department delivers advanced surgical care for patients with complex heart conditions. Staffed by a team of highly skilled cardiac surgeons and specialized support personnel, we perform a wide range of procedures, including: Coronary Artery Bypass Grafting (CABG) Valve Repair […]",
+        "At MaxHealth Hospital, our Nephrology Department provides specialized care for a wide range of kidney conditions, including: Chronic Kidney Disease (CKD) Renal Failure Hypertension-related Kidney Disorders Diabetic Nephropathy Glomerular Diseases Our comprehensive facilities include: Hemodialysis Units Renal Transplant Services Renal Biopsies Long-term management and follow-up […]",
+        "Thoracic surgery encompasses the operative, perioperative, and surgical critical care of patients who acquired and congenital pathologic conditions within the chest. Thoracic surgeons treat diseased or injured organs in the chest. Only smart art thoracic surgery in Islamabad.We gave services under care of Dr. Tashfeen Imtiaz […]",
+        "The Neurosurgery Department at Maxhealth Hospital is at the forefront of adopting the latest advancements in neurosurgical care. Equipped with cutting-edge technology—including a neuro-navigation system, high-end surgical microscope, and neuro-endoscope—the department is designed to perform highly precise and minimally invasive procedures in line with international […]"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "https://maxhealth.com.pk/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        },
+        {
+          "src": "https://maxhealth.com.pk/trial/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        }
+      ]
+    },
+    {
+      "url": "https://maxhealth.com.pk/service-category/24-7-emergency-services-maxhealth-hospital/page/4",
+      "scraped_at": "2026-07-04T08:19:00.732754Z",
+      "page_title": "24/7 Emergency Services – Maxhealth Hospital – Page 4 – Max Health Hospital",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1",
+        "theme-color": "#1bbde4",
+        "msapplication-navbutton-color": "#1bbde4",
+        "mobile-web-app-capable": "yes",
+        "apple-mobile-web-app-status-bar-style": "black-translucent",
+        "robots": "max-image-preview:large",
+        "generator": "Powered by Slider Revolution 6.7.34 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."
+      },
+      "contacts": {
+        "emails": [
+          "rhsmarketing@riphah.edu.pk"
+        ],
+        "phones": [
+          "+92-51-8094760"
+        ]
+      },
+      "social_profiles": {
+        "facebook": [
+          "https://www.facebook.com/MaxHealth.Islamabad"
+        ],
+        "youtube": [
+          "https://www.youtube.com/@maxhealthhospital3924"
+        ],
+        "instagram": [
+          "https://www.instagram.com/max_health_isb?fbclid=IwZXh0bgNhZW0CMTAAc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHp6decSPR0d3bDYMVwKMle58cs4EJzgSKsv_-rSoWrTXAcCzjf1xyjbLhrc0_aem_r2CqKDBXi7xXzln9eaDWWA"
+        ]
+      },
+      "structured_data": [],
+      "navigation": [
+        {
+          "label": "Home",
+          "url": "https://maxhealth.com.pk/"
+        },
+        {
+          "label": "About Us",
+          "url": "https://maxhealth.com.pk/about-us/"
+        },
+        {
+          "label": "Our Services",
+          "url": "https://maxhealth.com.pk/ourservices/"
+        },
+        {
+          "label": "24/7 Emergency Services – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/24-7-emergency-services-maxhealth-hospital/"
+        },
+        {
+          "label": "Anesthesia & Pain Management",
+          "url": "https://maxhealth.com.pk/service-category/anesthesia-pain-management/"
+        },
+        {
+          "label": "Bariatric (Weight Loss) Surgery — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/bariatric-weight-loss-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "ENT (Ear, Nose and Throat)",
+          "url": "https://maxhealth.com.pk/service-category/ent-ear-nose-and-throat/"
+        },
+        {
+          "label": "Cardiothoracic & Vascular Surgery— MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiothoracic-vascular-surgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Psychiatry & Mental Health — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/psychiatry-mental-health-maxhealth-hospital/"
+        },
+        {
+          "label": "Pulmonology & Chest Medicine",
+          "url": "https://maxhealth.com.pk/service-category/pulmonology-chest-medicine/"
+        },
+        {
+          "label": "Gastroenterology",
+          "url": "https://maxhealth.com.pk/service-category/gastroenterology/"
+        },
+        {
+          "label": "Pediatrics & Neonatology",
+          "url": "https://maxhealth.com.pk/service-category/pediatrics-neonatology/"
+        },
+        {
+          "label": "Dermatology & Cosmetology",
+          "url": "https://maxhealth.com.pk/service-category/dermatology-cosmetology/"
+        },
+        {
+          "label": "Neurology – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurology-maxhealth-hospital/"
+        },
+        {
+          "label": "Cardiology Department",
+          "url": "https://maxhealth.com.pk/service-category/cardiology-department/"
+        },
+        {
+          "label": "Breast Surgery",
+          "url": "https://maxhealth.com.pk/service-category/breast-surgery/"
+        },
+        {
+          "label": "Ophthalmology",
+          "url": "https://maxhealth.com.pk/service-category/ophthalmology/"
+        },
+        {
+          "label": "General Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-surgery/"
+        },
+        {
+          "label": "Nephrology",
+          "url": "https://maxhealth.com.pk/service-category/nephrology/"
+        },
+        {
+          "label": "Eyes",
+          "url": "https://maxhealth.com.pk/service-category/eyes/"
+        },
+        {
+          "label": "Physiotherapy & Rehabilitation",
+          "url": "https://maxhealth.com.pk/service-category/physiotherapy-rehabilitation/"
+        },
+        {
+          "label": "Peads Neonatal",
+          "url": "https://maxhealth.com.pk/service-category/peads-neonatal/"
+        },
+        {
+          "label": "Plastic, Burn & Reconstructive Surgery",
+          "url": "https://maxhealth.com.pk/service-category/plastic-burn-reconstructive-surgery/"
+        },
+        {
+          "label": "Peads Surgery",
+          "url": "https://maxhealth.com.pk/service-category/peads-surgery/"
+        },
+        {
+          "label": "Dental Department",
+          "url": "https://maxhealth.com.pk/service-category/dental-department/"
+        },
+        {
+          "label": "Orthopedic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/orthopedic-surgery/"
+        },
+        {
+          "label": "Neurosurgery – Maxhealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/neurosurgery-maxhealth-hospital/"
+        },
+        {
+          "label": "Gynecology & Obstetrics Department",
+          "url": "https://maxhealth.com.pk/service-category/gynecology-obstetrics-department/"
+        },
+        {
+          "label": "General & Laparoscopic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/general-laparoscopic-surgery/"
+        },
+        {
+          "label": "Internal Medicine",
+          "url": "https://maxhealth.com.pk/service-category/internal-medicine/"
+        },
+        {
+          "label": "Cardiac Surgery Department — MaxHealth Hospital",
+          "url": "https://maxhealth.com.pk/service-category/cardiac-surgery-department-maxhealth-hospital/"
+        },
+        {
+          "label": "Urology",
+          "url": "https://maxhealth.com.pk/service-category/urology/"
+        },
+        {
+          "label": "Thoracic Surgery",
+          "url": "https://maxhealth.com.pk/service-category/thoracic-surgery/"
+        },
+        {
+          "label": "Our Doctors",
+          "url": "https://maxhealth.com.pk/our-doctors/"
+        },
+        {
+          "label": "Gallery",
+          "url": "https://maxhealth.com.pk/gallery/"
+        },
+        {
+          "label": "Contact Us",
+          "url": "https://maxhealth.com.pk/contact-us/"
+        }
+      ],
+      "headings": [
+        {
+          "level": "h1",
+          "text": "24/7 Emergency Services – Maxhealth Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "General & Laparoscopic Surgery"
+        },
+        {
+          "level": "h3",
+          "text": "Internal Medicine"
+        },
+        {
+          "level": "h2",
+          "text": "Departmants"
+        },
+        {
+          "level": "h2",
+          "text": "Sign Up To Get Latest Updates"
+        },
+        {
+          "level": "h2",
+          "text": "Follow on socials"
+        },
+        {
+          "level": "h2",
+          "text": "Opening Hours OPD"
+        },
+        {
+          "level": "h2",
+          "text": "24/7 Emergency"
+        }
+      ],
+      "content_blocks": [
+        "At MaxHealth Hospital, our General & Laparoscopic Surgery Department provides expert surgical care using both conventional and minimally invasive techniques. We are committed to delivering safe, effective procedures that promote faster recovery and minimal discomfort. We specialize in surgical management of: Hernias Gallstones & Gallbladder […]",
+        "At MaxHealth Hospital, our Internal Medicine Department provides expert care for a wide range of adult medical conditions, including: Diabetes Hypertension Infectious Diseases Metabolic and Autoimmune Disorders Our team of experienced physicians offers comprehensive evaluations, diagnostic workups, and individualized treatment plans, with a strong focus […]"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "https://maxhealth.com.pk/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        },
+        {
+          "src": "https://maxhealth.com.pk/trial/wp-content/uploads/2025/12/max-logo-31hjkteeeovqafhxuj30g0-1.jpg",
+          "alt": "Max Health Hospital"
+        }
+      ]
+    }
+  ]
+}
